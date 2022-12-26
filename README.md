@@ -3,7 +3,7 @@
 <br />
 <p align="center">
   <a href="">
-    <img src="JEE-Project\Assets\FAANG Layoffs.png" alt="Logo">
+    <img src="https://raw.githubusercontent.com/pizasteve/JEE-Project/main/Assets/FAANG%20Layoffs.png" alt="Logo">
   </a>
 </p>
 <br>
