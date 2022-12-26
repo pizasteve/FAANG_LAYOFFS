@@ -8,8 +8,8 @@
 </p>
 <br>
 
-</span>
-<h2 style="text-align:center">Abstract</h2>
+<h2  align="center" style="text-align:center">Abstract</h2>
+
 This repo summarizes the work carried out within the framework
 of our project for the WEB/J2EE Programming course in National
 Institute of Posts and Telecommunications which is FAANG lay-offs.
