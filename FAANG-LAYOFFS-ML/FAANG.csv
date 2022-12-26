@@ -1,0 +1,1853 @@
+Name,Headline,Location,Company,Company_Months,Work_Months,Laidoff
+Jillian James,Software Engineer ,Nevada,Meta,38,273,False
+Daniel Nguyen,Software Engineer ,Arizona,Meta,141,213,False
+Samantha Robertson,Project Manager ,Minnesota,Meta,138,341,False
+Antonio Hernandez,Data Engineer,Maryland,Meta,134,213,False
+Sarah Whitney,Data Analyst,Indiana,Meta,193,337,False
+Nicholas Holloway,Program Manager,Iowa,Meta,130,334,False
+Heather Saunders,Data Analyst,Vermont,Meta,72,309,False
+Edgar Shields,Data Analyst,North Carolina,Meta,135,160,False
+Thomas Edwards,Program Manager,Missouri,Meta,179,199,False
+Wesley Montgomery,Program Manager,Arizona,Meta,102,354,False
+Danielle Jones,Software Engineer ,Alaska,Meta,235,263,False
+Cheryl Nelson,Software Engineer ,South Carolina,Meta,158,300,False
+Christina Martin,Data Analyst,New Jersey,Meta,51,119,False
+Christopher Edwards,3D Artist,North Carolina,Meta,216,312,False
+Olivia Gutierrez,Data Engineer,Nevada,Meta,87,228,False
+Elaine Ferguson,Data Engineer,Indiana,Meta,234,243,False
+Daniel Torres,Product Manager,Colorado,Meta,8,327,True
+Linda Meza,Project Manager ,Connecticut,Meta,62,84,False
+Shawn Brown,Data Engineer,Wyoming,Meta,58,59,False
+Christian Miller,Product Manager,Maine,Meta,129,189,False
+Michael Gonzalez,Data Scientist,Kentucky,Meta,210,218,False
+William Collins,Software Engineer ,Connecticut,Meta,217,358,False
+Andrew Norris,Software Engineer ,Oklahoma,Meta,116,291,False
+Susan Kim,3D Artist,Maine,Meta,235,356,False
+Chad Foster,3D Artist,Kentucky,Meta,201,231,False
+Steven Castro,Machine Learning Engineer,Oklahoma,Meta,72,121,False
+William Dalton,Program Manager,Texas,Meta,58,61,False
+Tony Murphy,Data Analyst,District of Columbia,Meta,197,221,False
+Christopher Kaufman,Data Engineer,Minnesota,Meta,44,120,False
+Lydia Roberts,Machine Learning Engineer,Michigan,Meta,27,335,False
+Christy Lewis,3D Artist,Massachusetts,Meta,81,190,False
+Christopher Mayer,Data Scientist ,District of Columbia,Meta,116,157,False
+Alexa Horn,Software Engineer ,Rhode Island,Meta,211,226,False
+Jennifer Tran,Associate General Counsel Data Protection,Michigan,Meta,65,261,False
+Jack Webb,Data Engineer,Massachusetts,Meta,26,252,False
+Deborah Castro,Product Manager,South Carolina,Meta,216,351,False
+Jasmine Tanner,Data Engineer,Illinois,Meta,27,180,True
+Thomas Molina,Data Scientist,Vermont,Meta,105,127,False
+Jared Carpenter,Data Scientist ,Alaska,Meta,10,205,True
+Sarah Woods,3D Artist,Delaware,Meta,232,358,False
+Kathy Jordan,Project Manager ,Rhode Island,Meta,24,179,True
+Taylor Richards,3D Artist,Pennsylvania,Meta,166,223,False
+David Willis,Data Engineer,Kansas,Meta,84,250,False
+Nicole Burke,Associate General Counsel Data Protection,Maine,Meta,137,169,False
+Karen Bauer,Project Manager ,Rhode Island,Meta,163,173,False
+Jeffrey Russell,Associate General Counsel Data Protection,Alaska,Meta,24,167,True
+Anthony Scott,Product Manager,Hawaii,Meta,88,331,False
+Holly Anderson,Product Manager,District of Columbia,Meta,93,167,False
+Holly Howell,Product Manager,Oregon,Meta,191,237,False
+Darius Woods,Product Manager,Alabama,Meta,161,312,False
+David Parker,Data Analyst,Ohio,Meta,184,249,False
+Paula Douglas,Associate General Counsel Data Protection,Delaware,Meta,114,191,False
+Nicholas Hudson,3D Artist,North Carolina,Meta,4,257,True
+James Porter,Data Scientist ,Hawaii,Meta,206,212,False
+Michelle Schmidt,Machine Learning Engineer,Pennsylvania,Meta,53,55,False
+Mary Sullivan,Data Engineer,Ohio,Meta,77,226,False
+Loretta Perez,Data Scientist ,Rhode Island,Meta,204,211,False
+Tony Flores,Data Analyst,New Mexico,Meta,78,278,False
+Catherine White,Data Engineer,Washington,Meta,76,119,False
+Clinton Harrison,Project Manager ,California,Meta,21,51,True
+Amber Hoffman,Machine Learning Engineer,Kentucky,Meta,37,300,False
+Derek Garza,Product Manager,Montana,Meta,46,103,False
+Todd Garcia,3D Artist,Virginia,Meta,211,307,False
+Julie Barrett,Software Engineer ,New Jersey,Meta,14,24,True
+George Spencer,Data Scientist ,Hawaii,Meta,24,176,True
+Joseph Sampson,Product Manager,Illinois,Meta,203,351,False
+Erica Schaefer,Data Scientist ,Maryland,Meta,161,301,False
+Patricia Anderson,Program Manager,Kentucky,Meta,194,288,False
+Danielle Garcia,Project Manager ,Oregon,Meta,61,213,False
+Robin Conner,Associate General Counsel Data Protection,Arizona,Meta,83,213,False
+Kimberly Peck,Associate General Counsel Data Protection,Idaho,Meta,237,329,False
+Christopher Burke,Data Scientist,West Virginia,Meta,104,202,False
+Susan Butler,Data Scientist,Rhode Island,Meta,11,193,True
+Scott Williams PhD,Data Engineer,Vermont,Meta,97,295,False
+William Shaw,Program Manager,Arkansas,Meta,195,266,False
+Terri Ward,Software Engineer ,Colorado,Meta,232,280,False
+Jennifer Faulkner,Program Manager,Texas,Meta,55,70,False
+Nicole Roy,Data Scientist ,Rhode Island,Meta,134,279,False
+Kimberly Sullivan,Project Manager ,Minnesota,Meta,171,191,False
+Jessica Mills,Associate General Counsel Data Protection,Iowa,Meta,119,295,False
+Jeanette Thomas,Machine Learning Engineer,Kentucky,Meta,23,137,True
+Cameron Sherman,Machine Learning Engineer,Wisconsin,Meta,98,279,False
+Carla Small,Software Engineer ,District of Columbia,Meta,85,95,False
+Dorothy Ferguson,Software Engineer ,Iowa,Meta,97,280,False
+Christopher Mendez,Data Scientist,Minnesota,Meta,62,118,False
+Christopher Jordan,Associate General Counsel Data Protection,Michigan,Meta,218,314,False
+Randy Bailey,Associate General Counsel Data Protection,Missouri,Meta,212,237,False
+Misty Ellis,3D Artist,Kentucky,Meta,143,284,False
+Cheryl Gilbert,Machine Learning Engineer,Louisiana,Meta,213,329,False
+Bobby Ellis,Data Scientist ,Georgia,Meta,44,178,False
+Ruth Smith,Project Manager ,Alaska,Meta,206,349,False
+Shannon Dunn,Software Engineer ,Kansas,Meta,25,162,True
+Rodney Jackson,3D Artist,Indiana,Meta,195,248,False
+Steven Choi,Machine Learning Engineer,West Virginia,Meta,70,318,False
+Roberto Williamson,Machine Learning Engineer,Mississippi,Meta,22,318,False
+Kim Kelley,Machine Learning Engineer,Virginia,Meta,78,297,False
+Jason Long,Program Manager,North Dakota,Meta,178,291,False
+Sharon Ramirez,Data Analyst,Mississippi,Meta,48,93,False
+Johnny Silva,Data Analyst,Delaware,Meta,88,232,False
+Joseph Wu,Data Analyst,Montana,Meta,157,202,False
+Carlos Vargas,Associate General Counsel Data Protection,Louisiana,Meta,196,312,False
+Traci Curry,3D Artist,Tennessee,Meta,67,130,False
+Sheila Suarez,Data Engineer,Nevada,Meta,76,111,False
+Ariana Sanchez,Project Manager ,Washington,Meta,182,215,False
+Nicholas Brady,Product Manager,District of Columbia,Meta,131,343,False
+Mary Hall,Data Analyst,Alabama,Meta,84,132,False
+Matthew Gibbs,Software Engineer ,Minnesota,Meta,55,343,False
+Mrs. Lindsey Herrera,Software Engineer ,Maine,Meta,157,212,False
+Justin Griffin,Data Engineer,New Hampshire,Meta,211,242,False
+April Richard,Program Manager,Pennsylvania,Meta,29,251,False
+Michelle Keller,Product Manager,Illinois,Meta,75,211,False
+Michelle Martinez,Program Manager,Louisiana,Meta,110,209,False
+Loretta Wang,Machine Learning Engineer,Hawaii,Meta,33,41,True
+Dr. Joshua Collins,Data Engineer,Delaware,Meta,85,135,False
+Jose Contreras,Software Engineer ,Illinois,Meta,80,249,False
+Anita Bonilla,Machine Learning Engineer,New Jersey,Meta,65,173,False
+Cynthia Barnett,3D Artist,Massachusetts,Meta,212,236,False
+Deborah Morrison,Associate General Counsel Data Protection,Maine,Meta,114,348,False
+Anthony Allen,Machine Learning Engineer,Wisconsin,Meta,21,65,True
+Jeanne Preston,Data Scientist ,Arizona,Meta,16,174,True
+Nicholas Durham,3D Artist,South Dakota,Meta,220,239,False
+David Martinez,Associate General Counsel Data Protection,Alabama,Meta,155,241,False
+Richard Mccarty,Data Engineer,Georgia,Meta,136,189,False
+Adam Lambert,3D Artist,Iowa,Meta,176,286,False
+Bruce Martin,Data Engineer,Georgia,Meta,189,223,False
+Andrea Thornton,Data Engineer,Texas,Meta,101,329,False
+Trevor Carter,Data Analyst,Vermont,Meta,33,313,False
+Michael Gomez,Machine Learning Engineer,North Carolina,Meta,212,306,False
+Rebecca Bradley,Data Scientist ,Washington,Meta,167,342,False
+Shelby Butler,Software Engineer ,Pennsylvania,Meta,232,237,False
+David Johnston,3D Artist,New York,Meta,80,143,False
+Donald Vaughan,Software Engineer ,Rhode Island,Meta,114,201,False
+Katrina Robbins,Machine Learning Engineer,Arkansas,Meta,161,203,False
+Cory Crane,3D Artist,Washington,Meta,203,348,False
+Kevin Norton,Data Analyst,New Mexico,Meta,69,257,False
+Katherine Thomas,Data Analyst,Delaware,Meta,207,352,False
+Victoria Anderson,Machine Learning Engineer,New Hampshire,Meta,168,331,False
+Kathy Cline,Data Engineer,Washington,Meta,210,248,False
+Kathleen Johnson,Associate General Counsel Data Protection,Nevada,Meta,170,240,False
+Kristopher Howell,Data Scientist ,Michigan,Meta,154,202,False
+Veronica Valdez,3D Artist,Hawaii,Meta,179,223,False
+Kevin Ryan,Product Manager,Rhode Island,Meta,106,288,False
+Miss Courtney Brown,Associate General Counsel Data Protection,Alaska,Meta,1,343,True
+Cynthia Guzman,Program Manager,Idaho,Meta,17,292,True
+Leslie Baker,Software Engineer ,Arkansas,Meta,10,122,True
+Michelle Torres,Product Manager,Idaho,Meta,221,272,False
+Sarah Aguilar,Data Engineer,Idaho,Meta,112,250,False
+Gina Young,Associate General Counsel Data Protection,District of Columbia,Meta,124,192,False
+Kathryn Nelson,Product Manager,Michigan,Meta,152,166,False
+Maria Bell,3D Artist,Michigan,Meta,192,213,False
+Samantha Doyle MD,Product Manager,Indiana,Meta,175,299,False
+Mike Harris,Data Analyst,Ohio,Meta,132,316,False
+Nancy Perkins,3D Artist,Oklahoma,Meta,89,297,False
+Taylor Garcia,Program Manager,Alabama,Meta,175,229,False
+Jennifer Duncan,Machine Learning Engineer,New Mexico,Meta,208,279,False
+Keith Garcia,Project Manager ,Virginia,Meta,15,220,True
+Gabriela Nolan,Data Analyst,Wyoming,Meta,144,297,False
+Ronald Saunders,Associate General Counsel Data Protection,Washington,Meta,54,266,False
+Gary Orr,Data Scientist ,Rhode Island,Meta,187,301,False
+Matthew White,Data Analyst,Arizona,Meta,239,268,False
+David Parker,Program Manager,New York,Meta,45,82,True
+Joseph Johnson,Project Manager ,Rhode Island,Meta,151,333,False
+Mario Marsh,Product Manager,New Mexico,Meta,77,89,False
+Joshua Harper,Product Manager,Minnesota,Meta,121,180,False
+Derrick Foster,Software Engineer ,North Dakota,Meta,155,359,False
+Colleen Powers,Data Analyst,Texas,Meta,200,325,False
+Stefanie Williams,Project Manager ,Washington,Meta,44,338,False
+Thomas Walker,Data Scientist ,New Hampshire,Meta,92,204,False
+Doris Reilly,Data Analyst,Arkansas,Meta,70,296,False
+Courtney Reed,Data Scientist ,Texas,Meta,162,333,False
+Carrie Sullivan,Data Engineer,Wisconsin,Meta,155,339,False
+Veronica Stevens,Product Manager,West Virginia,Meta,198,271,False
+Michael Wilson,Project Manager ,Illinois,Meta,53,142,False
+Lynn Robbins,3D Artist,Oregon,Meta,28,71,True
+William Chavez,Data Analyst,Michigan,Meta,2,340,True
+Michael Mitchell,Product Manager,Mississippi,Meta,128,222,False
+Victor Rivera,Associate General Counsel Data Protection,South Carolina,Meta,225,309,False
+Daniel Soto,Project Manager ,Arizona,Meta,31,95,True
+Russell Simpson,Associate General Counsel Data Protection,Missouri,Meta,151,249,False
+Bradley Pineda,Project Manager ,Florida,Meta,53,184,False
+Susan Steele,3D Artist,Mississippi,Meta,71,211,False
+Todd Morales,Project Manager ,Missouri,Meta,40,270,False
+James Fuentes,Data Scientist,West Virginia,Meta,84,323,False
+Heather Welch,Machine Learning Engineer,West Virginia,Meta,177,238,False
+Danielle Romero,3D Artist,Hawaii,Meta,199,212,False
+Allen Martinez,Data Scientist,Virginia,Meta,165,188,False
+Brian Robinson,Data Analyst,Montana,Meta,151,345,False
+Ronald Diaz,3D Artist,District of Columbia,Meta,123,343,False
+Victor Khan,Product Manager,Oregon,Meta,235,330,False
+Christina Burgess,Machine Learning Engineer,Rhode Island,Meta,54,223,False
+Gabriel Hood,Machine Learning Engineer,South Carolina,Meta,186,274,False
+Guy Wright,3D Artist,Indiana,Meta,110,356,False
+Joshua Banks,Data Scientist ,Delaware,Meta,222,304,False
+Andrew Harris,Associate General Counsel Data Protection,Kansas,Meta,107,246,False
+Shawn Green,Software Engineer ,Wisconsin,Meta,106,142,False
+Valerie Diaz,Associate General Counsel Data Protection,Connecticut,Meta,113,257,False
+Laura Gardner,Machine Learning Engineer,Mississippi,Meta,159,274,False
+Samuel Blankenship,Data Analyst,Rhode Island,Meta,107,319,False
+Brooke Reid,Product Manager,Missouri,Meta,186,221,False
+Robert Ramos,Product Manager,Kentucky,Meta,170,251,False
+Jessica Miller,Software Engineer ,New Hampshire,Meta,3,216,True
+Brian Wagner,Data Scientist ,Alaska,Meta,94,258,False
+Chelsea Murphy,Software Engineer ,New Jersey,Meta,110,156,False
+Angela Kim,Data Scientist,North Carolina,Meta,81,109,False
+Sandra Greene,Project Manager ,New Mexico,Meta,131,358,False
+David Elliott,Program Manager,Indiana,Meta,142,311,False
+Dawn Hoffman,Data Engineer,South Dakota,Meta,122,158,False
+Erica Terry,Program Manager,Ohio,Meta,229,247,False
+Ricardo Fowler,3D Artist,Vermont,Meta,226,289,False
+Kathleen Williams,Data Scientist ,Idaho,Meta,47,264,False
+Natalie Johnson,Associate General Counsel Data Protection,Massachusetts,Meta,232,344,False
+Austin Hernandez,Data Engineer,California,Meta,102,104,False
+Deborah Miller,Associate General Counsel Data Protection,Georgia,Meta,99,305,False
+Jennifer Cantu,Data Scientist,Louisiana,Meta,204,230,False
+Ian Wolfe,Software Engineer ,North Dakota,Meta,233,254,False
+Rachael Garcia,Product Manager,Minnesota,Meta,59,96,False
+Ashley Gordon,Data Scientist ,Rhode Island,Meta,234,343,False
+Jacob Melendez,Associate General Counsel Data Protection,Michigan,Meta,233,339,False
+Tracy Vargas,Program Manager,Montana,Meta,12,18,True
+James Bowers,Data Scientist,New York,Meta,97,239,False
+Jennifer Jackson,Data Engineer,West Virginia,Meta,101,304,False
+Nancy Aguilar MD,Data Engineer,Maine,Meta,164,355,False
+Marie Carter MD,3D Artist,District of Columbia,Meta,124,156,False
+Nicholas Ruiz,Data Scientist ,Virginia,Meta,111,202,False
+Ellen Gonzalez,Associate General Counsel Data Protection,Georgia,Meta,178,300,False
+Cameron Burke,Data Engineer,Massachusetts,Meta,129,279,False
+Justin Keller,Project Manager ,Texas,Meta,98,262,False
+Alyssa David,Machine Learning Engineer,Connecticut,Meta,147,174,False
+Kimberly Lee,Data Scientist ,Illinois,Meta,157,209,False
+Brooke Weeks,Data Analyst,Michigan,Meta,103,325,False
+Virginia Marks,Project Manager ,Maine,Meta,122,172,False
+Angela Anderson,Program Manager,Arizona,Meta,47,54,True
+John West,Software Engineer ,Wisconsin,Meta,214,230,False
+Stephen Becker,Program Manager,Ohio,Meta,232,261,False
+Kevin Francis,Machine Learning Engineer,West Virginia,Meta,140,329,False
+Erik Ray,Machine Learning Engineer,Wisconsin,Meta,15,45,True
+Joyce Baker,Product Manager,Hawaii,Meta,137,305,False
+Shannon Myers,Data Analyst,Alaska,Meta,177,335,False
+Mercedes Gregory,Software Engineer ,Wyoming,Meta,152,346,False
+Charles Singh,Software Engineer ,South Dakota,Meta,221,231,False
+Marie Johnson,3D Artist,Utah,Meta,29,162,True
+Gwendolyn Marsh,Project Manager ,Oklahoma,Meta,122,164,False
+Antonio Hernandez,Software Engineer ,New Mexico,Meta,87,165,False
+Bradley Fuller,Product Manager,Vermont,Meta,88,297,False
+Janice Thompson,3D Artist,Arkansas,Meta,139,339,False
+Andrea Key,Machine Learning Engineer,Tennessee,Meta,49,324,False
+Ian Carlson,Product Manager,Iowa,Meta,141,294,False
+Jeffrey Alvarado,Product Manager,North Dakota,Meta,78,350,False
+Amy Ross,Machine Learning Engineer,Texas,Meta,5,160,True
+Andrew Bryant,Data Engineer,Alabama,Meta,179,247,False
+Kimberly Hernandez,Product Manager,Arkansas,Meta,132,318,False
+Linda Collins,Program Manager,North Dakota,Meta,13,143,True
+Jason Smith,Project Manager ,Alaska,Meta,77,235,False
+Jonathan Rodriguez,Data Analyst,Nevada,Meta,188,321,False
+Tracy Townsend,Data Scientist,South Carolina,Meta,145,240,False
+Dr. Mary Mcneil,Data Scientist,New York,Meta,97,333,False
+Susan Peters,Program Manager,Montana,Meta,32,267,False
+Joseph Chambers,Product Manager,Connecticut,Meta,100,121,False
+Mary Church,Data Scientist,North Carolina,Meta,148,225,False
+Leslie Duran,Program Manager,Arizona,Meta,34,38,True
+Gabrielle Johnson,Machine Learning Engineer,Louisiana,Meta,40,164,False
+Chris Garcia II,Software Engineer ,Minnesota,Meta,68,230,False
+Abigail Orozco,Data Scientist ,California,Meta,163,205,False
+Natalie Horne,Program Manager,South Carolina,Meta,79,289,False
+David Ramsey,Associate General Counsel Data Protection,North Dakota,Meta,103,141,False
+Melissa Decker,Program Manager,Hawaii,Meta,123,299,False
+Michelle Jimenez,Data Analyst,Wyoming,Meta,123,332,False
+Joan Sullivan,Data Scientist,Rhode Island,Meta,6,236,True
+Taylor Carrillo,Data Scientist,Alabama,Meta,220,356,False
+Brittany Gallagher,Program Manager,Connecticut,Meta,41,238,False
+Stacey Harris,Data Analyst,Connecticut,Meta,6,13,True
+Stephen Phillips,Product Manager,Hawaii,Meta,207,244,False
+Anthony Cabrera,3D Artist,Rhode Island,Meta,106,184,False
+Debbie Owens,3D Artist,Kentucky,Meta,34,61,True
+Kevin Flores,Software Engineer ,Michigan,Meta,180,257,False
+Benjamin Newman,Product Manager,Kentucky,Meta,31,205,False
+Hailey Johnson,Product Manager,Arizona,Meta,10,333,True
+Corey Lewis,Data Scientist ,Vermont,Meta,4,314,True
+Dawn Holden,Data Analyst,North Carolina,Meta,98,325,False
+Jessica Brown,Product Manager,Minnesota,Meta,81,246,False
+Samantha Colon,Project Manager ,District of Columbia,Meta,193,358,False
+Christopher Lambert,Program Manager,Virginia,Meta,222,300,False
+Amanda Patterson,Data Analyst,Nebraska,Meta,104,302,False
+Denise Shah,Software Engineer ,Florida,Meta,221,273,False
+Vanessa Wright,3D Artist,Vermont,Meta,139,299,False
+Mary Farmer,3D Artist,Wyoming,Meta,47,110,False
+Christopher Parker,Data Scientist,Michigan,Meta,124,345,False
+Ashley Foster,Data Scientist,Vermont,Meta,147,311,False
+Austin Stewart,Machine Learning Engineer,Kentucky,Meta,158,197,False
+Juan Yates,3D Artist,North Dakota,Meta,29,83,True
+Brent Hamilton,Data Scientist,Iowa,Meta,30,213,False
+Kathryn Anderson,Data Engineer,Hawaii,Meta,104,194,False
+Mary Mills,Data Scientist ,Nevada,Meta,156,344,False
+Vincent Nichols,Data Engineer,Hawaii,Meta,107,247,False
+Lisa Browning,Software Engineer ,Hawaii,Meta,146,217,False
+Kristin Stark,Product Manager,Hawaii,Meta,92,276,False
+Gabrielle Charles,Data Scientist ,Wyoming,Meta,52,256,False
+James Long,Project Manager ,Louisiana,Meta,63,165,False
+John Donovan,Data Scientist,Wyoming,Meta,180,276,False
+Donna Horton,Software Engineer ,Louisiana,Meta,31,181,True
+Brian Calderon,Data Scientist,Tennessee,Meta,6,101,True
+Alex Salinas,Software Engineer ,Arizona,Meta,106,256,False
+Joanna Jones,Data Engineer,Arizona,Meta,205,321,False
+Ashley Murphy,Data Analyst,Texas,Meta,110,132,False
+Krista Hartman,Data Scientist ,West Virginia,Meta,231,260,False
+Teresa Neal,Program Manager,Oklahoma,Meta,19,71,True
+Amy Romero,3D Artist,Louisiana,Meta,123,154,False
+Samuel Williams,Associate General Counsel Data Protection,Georgia,Meta,50,276,False
+Angela Garcia,Machine Learning Engineer,Mississippi,Meta,212,333,False
+Yolanda Carr,Data Analyst,Tennessee,Meta,222,308,False
+Rebecca Alexander,Product Manager,Michigan,Meta,16,215,True
+Chelsea Lawrence,Program Manager,Michigan,Meta,177,333,False
+Sarah Cunningham,Product Manager,New York,Meta,212,239,False
+Robert Lee,Product Manager,Connecticut,Meta,44,191,False
+Paul Sandoval,Data Analyst,Vermont,Meta,80,294,False
+Miss Nicole Jones DVM,Software Engineer ,Maryland,Meta,12,241,True
+Karen Forbes,Project Manager ,Montana,Meta,194,287,False
+Rachel Smith,Program Manager,Wyoming,Meta,16,195,True
+Darius Howard,3D Artist,Vermont,Meta,227,313,False
+Aaron Rasmussen,Data Engineer,Vermont,Meta,46,196,False
+Lori Wu,3D Artist,Michigan,Meta,110,213,False
+Patrick Ayala,Project Manager ,California,Meta,211,355,False
+Jonathan Jackson,Data Engineer,Texas,Meta,18,106,True
+Dylan Hughes,3D Artist,Maine,Meta,231,359,False
+Lisa Fox,Data Analyst,Louisiana,Meta,98,180,False
+Ryan Kramer,Data Analyst,North Dakota,Meta,120,319,False
+Sherry Turner,Project Manager ,Maryland,Meta,15,179,True
+Darius Atkinson,Machine Learning Engineer,Arizona,Meta,27,49,True
+Anna Branch,Program Manager,Kentucky,Meta,35,56,True
+Amanda Cunningham,Data Analyst,Delaware,Meta,197,315,False
+Jonathan Moore,Project Manager ,Rhode Island,Meta,147,244,False
+Jason Lopez,Product Manager,Utah,Meta,140,279,False
+Kaitlyn Carey,Machine Learning Engineer,Wyoming,Meta,122,302,False
+Cheryl Howard,Data Engineer,Montana,Meta,77,145,False
+Rebecca Pugh,Associate General Counsel Data Protection,Massachusetts,Meta,174,263,False
+Bobby Norris,Program Manager,South Carolina,Meta,41,304,False
+Amy Griffin,Data Scientist ,District of Columbia,Meta,8,254,True
+Sarah Leonard,Product Manager,Hawaii,Meta,34,92,True
+Lisa Snow,Software Engineer ,Nebraska,Meta,8,170,True
+Juan Smith,Product Manager,Arizona,Meta,133,266,False
+Hayden Ferguson,Data Scientist ,Oklahoma,Meta,190,308,False
+Christine Gray,3D Artist,North Carolina,Meta,104,282,False
+Tina Weeks,Data Analyst,West Virginia,Meta,77,331,False
+Christopher Scott,Data Scientist ,Washington,Meta,97,211,False
+Mary Ortiz,Data Scientist ,Hawaii,Meta,126,218,False
+Susan Hansen,Data Scientist ,Washington,Meta,72,292,False
+Nicole Burns,Data Scientist ,Alabama,Meta,154,251,False
+Kimberly Flowers,Program Manager,Virginia,Meta,2,271,True
+Nicholas Kelley,Software Engineer ,California,Meta,117,155,False
+Daisy Hall,Machine Learning Engineer,Colorado,Meta,214,215,False
+Joseph Anderson,Machine Learning Engineer,Missouri,Meta,160,273,False
+Phillip Johnson,Data Engineer,North Carolina,Meta,115,153,False
+Virginia Freeman,Software Engineer ,North Carolina,Meta,29,232,False
+Zachary Romero,Data Scientist ,Iowa,Meta,115,214,False
+Kurt Ryan,Program Manager,Washington,Meta,32,211,False
+Briana Brown,Data Engineer,Massachusetts,Meta,67,328,False
+Jennifer Sanchez,Software Engineer ,Louisiana,Meta,1,329,True
+Jason Brown,Project Manager ,North Carolina,Meta,172,280,False
+Anthony Moses,Program Manager,Wyoming,Meta,25,169,True
+Jeffrey Reed,Product Manager,North Carolina,Meta,126,222,False
+Jennifer Peterson,Data Scientist ,New York,Meta,225,266,False
+Joshua Garcia,Data Analyst,Ohio,Meta,153,174,False
+John Davis,Software Engineer ,Hawaii,Meta,156,202,False
+Nicholas Hayes,Data Scientist,Montana,Meta,36,354,False
+Jack Cox,Product Manager,Kansas,Meta,69,101,False
+Richard Simon,Data Engineer,North Dakota,Meta,46,103,False
+Dr. Eric Robinson,Machine Learning Engineer,Alabama,Meta,154,186,False
+Michael Preston,Data Scientist,Mississippi,Meta,105,138,False
+Sydney Craig,Product Manager,Texas,Meta,135,328,False
+Nichole Kane,Machine Learning Engineer,District of Columbia,Meta,52,83,False
+Laura Murphy,Product Manager,Missouri,Meta,136,277,False
+Samantha Mack,Data Analyst,Arkansas,Meta,128,259,False
+Ashley Edwards,Product Manager,Minnesota,Meta,157,300,False
+Brenda Strickland,3D Artist,Florida,Meta,30,96,True
+Sherry Petersen,Data Analyst,Utah,Meta,62,273,False
+Chad Murphy,Data Scientist,South Carolina,Meta,97,155,False
+Elizabeth Sanders,3D Artist,Kentucky,Meta,211,241,False
+Barbara Smith,Data Engineer,North Dakota,Meta,186,282,False
+Nicholas Moody,3D Artist,Maine,Meta,178,224,False
+Jennifer Murillo,Machine Learning Engineer,Mississippi,Meta,84,124,False
+Henry Stewart,Data Engineer,Texas,Meta,121,231,False
+Frederick Brooks,Associate General Counsel Data Protection,Montana,Meta,179,311,False
+Jason Adams,Program Manager,New Hampshire,Meta,10,134,True
+Susan Romero,Data Engineer,Missouri,Meta,129,347,False
+Courtney Roberson,Associate General Counsel Data Protection,Georgia,Meta,150,224,False
+Nicole Rivera,Machine Learning Engineer,Arizona,Meta,150,311,False
+Javier Cox,3D Artist,Georgia,Meta,120,286,False
+Edward Campbell,Data Scientist,Iowa,Meta,38,81,True
+Kelly Villanueva,Product Manager,Vermont,Meta,104,137,False
+Nicholas Brown,Data Analyst,Texas,Meta,96,295,False
+Stephanie Miller,Data Scientist ,Utah,Meta,70,268,False
+David Jones,Software Engineer ,Montana,Meta,24,238,True
+David Freeman,3D Artist,Oregon,Meta,107,146,False
+Anthony Holloway,Machine Learning Engineer,Nebraska,Meta,32,325,False
+Tony Townsend,Program Manager,California,Meta,39,223,False
+Danielle Ortiz,3D Artist,Ohio,Meta,88,154,False
+Shannon Lopez,Program Manager,Alaska,Meta,11,27,True
+Melissa Logan,Data Engineer,Wisconsin,Meta,31,218,False
+Kimberly Ramos,Data Scientist,Wyoming,Meta,54,175,False
+Lindsey Meyer,Data Scientist,Tennessee,Meta,119,316,False
+Cassie Powell,Program Manager,Oregon,Meta,50,224,False
+Aaron Morales,Associate General Counsel Data Protection,Idaho,Meta,156,317,False
+Sarah Lester,Project Manager ,North Dakota,Meta,73,141,False
+Christopher Dalton,Project Manager ,New Jersey,Meta,40,73,True
+Sierra Watkins,Data Scientist ,Missouri,Meta,191,205,False
+Ashley Johnson,Product Manager,Nevada,Meta,78,139,False
+Arthur Jones,Program Manager,South Dakota,Meta,86,122,False
+Justin White,Associate General Counsel Data Protection,Tennessee,Meta,13,295,True
+Michael Harris,Data Analyst,Florida,Meta,83,333,False
+Lucas Barry,Program Manager,Delaware,Meta,128,355,False
+Mark Christian,Data Analyst,Ohio,Meta,13,246,True
+Richard Chapman,Machine Learning Engineer,Tennessee,Meta,100,329,False
+Elizabeth Webb,Data Scientist,Delaware,Meta,130,299,False
+Donald Oconnell,Data Scientist,New Hampshire,Meta,108,163,False
+Ellen Hammond,Data Scientist ,District of Columbia,Meta,56,199,False
+William Moon,Data Analyst,Maine,Meta,221,261,False
+Jamie Elliott,Program Manager,West Virginia,Meta,61,131,False
+Theresa Lloyd,3D Artist,Massachusetts,Meta,178,356,False
+Tony Taylor,Program Manager,New Hampshire,Meta,161,181,False
+Joseph Mosley,Associate General Counsel Data Protection,New Mexico,Meta,53,91,False
+Ray Kelley,Software Engineer ,District of Columbia,Meta,194,246,False
+Whitney Fuller,Associate General Counsel Data Protection,South Dakota,Meta,90,154,False
+Amanda White,Machine Learning Engineer,Iowa,Meta,43,346,False
+Kimberly Irwin,3D Artist,Arizona,Meta,150,247,False
+Natalie Dean,Program Manager,Hawaii,Meta,2,91,True
+Crystal Gonzalez,Program Manager,New Hampshire,Meta,39,57,True
+Laura Miller,Data Analyst,Georgia,Meta,206,245,False
+Jessica Fox,Project Manager ,Wyoming,Meta,99,226,False
+Joan Berry,Data Analyst,Maryland,Meta,16,309,False
+Angelica Rodriguez,Product Manager,Wyoming,Meta,231,329,False
+Elizabeth Graves,Data Engineer,Montana,Meta,128,129,False
+Shannon Hernandez,Program Manager,Nebraska,Meta,33,191,False
+Michael Fisher,3D Artist,New Mexico,Meta,230,237,False
+Gary Douglas,Machine Learning Engineer,Kansas,Meta,113,163,False
+Laura Cox,Data Scientist ,Delaware,Meta,179,339,False
+Philip Nguyen,Data Engineer,Rhode Island,Meta,44,241,False
+Dean Stout,Project Manager ,Kentucky,Meta,2,99,True
+Douglas Rosales,Product Manager,South Carolina,Meta,119,298,False
+Chelsea Mills,3D Artist,Florida,Meta,31,113,True
+Lori Farley,Software Engineer ,Alaska,Meta,178,259,False
+Diane Randolph,Data Scientist,Virginia,Meta,211,229,False
+Steven Montgomery,Software Engineer ,Alabama,Meta,175,347,False
+Amanda Hess,Data Engineer,Arkansas,Meta,220,357,False
+Corey Barrett,Software Engineer ,Delaware,Meta,133,210,False
+Dean Baker,Software Engineer ,Wyoming,Meta,64,215,False
+Victoria Salazar,Product Manager,Massachusetts,Meta,96,339,False
+Brittany Henderson,Data Scientist ,Alaska,Meta,188,313,False
+Christine Mahoney,Data Engineer,Wyoming,Meta,65,194,False
+Jake Schneider,Software Engineer ,New Hampshire,Meta,85,318,False
+Christy Edwards,Project Manager ,Nebraska,Meta,69,123,False
+Rhonda Bernard,3D Artist,Alabama,Meta,26,276,False
+Stephen May,Associate General Counsel Data Protection,Rhode Island,Meta,57,149,False
+Sarah Brooks,Data Analyst,New York,Meta,9,341,True
+Brenda Ward,Program Manager,Maryland,Meta,175,352,False
+Kathryn Chan,Project Manager ,Virginia,Meta,12,148,True
+Sarah Gonzalez,Machine Learning Engineer,New York,Meta,190,264,False
+Rodney Logan,Data Scientist ,Pennsylvania,Meta,152,240,False
+Sara Dorsey,Product Manager,Wyoming,Meta,218,223,False
+Sarah Thomas DDS,Data Engineer,Hawaii,Meta,112,282,False
+David Porter,Program Manager,Delaware,Meta,47,68,True
+Samantha Blankenship,Product Manager,Hawaii,Meta,180,297,False
+Timothy Rodriguez,Associate General Counsel Data Protection,Pennsylvania,Meta,74,220,False
+Rebecca Wallace,Software Engineer ,New York,Meta,152,197,False
+Christian Norton,Machine Learning Engineer,Louisiana,Meta,224,349,False
+Grace Beltran,Machine Learning Engineer,Connecticut,Meta,53,235,False
+Matthew Estrada,Data Analyst,New York,Meta,143,328,False
+Bruce Shelton,Data Scientist ,Montana,Meta,112,301,False
+Stacy Collins,Program Manager,Delaware,Meta,169,241,False
+Kimberly Mcguire,Program Manager,Utah,Meta,194,216,False
+Michael Jones,Associate General Counsel Data Protection,New Hampshire,Meta,3,217,True
+Richard Burke,Machine Learning Engineer,Nevada,Meta,2,74,True
+Andrew Johnson,Machine Learning Engineer,Wisconsin,Meta,52,267,False
+Benjamin Martinez,Machine Learning Engineer,Georgia,Meta,78,126,False
+Christopher Joseph,Software Engineer ,New Mexico,Meta,1,43,True
+Nancy Davis,Product Manager,Maryland,Meta,40,43,True
+Gregory Nash,Software Engineer ,Missouri,Meta,186,229,False
+Grace Rogers,Data Engineer,Indiana,Meta,54,241,False
+James Abbott,Machine Learning Engineer,Rhode Island,Meta,67,158,False
+Zachary Reynolds,Program Manager,Oklahoma,Meta,6,32,True
+Tracy Lewis,Project Manager ,Washington,Meta,196,227,False
+Carrie Walker,Program Manager,Oregon,Meta,12,194,True
+Mariah Becker,Product Manager,Vermont,Meta,130,143,False
+Kayla Sparks,Data Engineer,Colorado,Meta,60,269,False
+Kathryn Leonard,3D Artist,Arizona,Meta,137,175,False
+Gloria Acosta,Data Scientist,Montana,Meta,133,203,False
+Jessica Eaton,Data Engineer,New Mexico,Meta,77,82,False
+Dawn Mcintosh,Software Engineer ,Minnesota,Meta,208,292,False
+Sara Martin,Software Engineer ,Washington,Meta,188,219,False
+Aimee Whitney,Machine Learning Engineer,New Hampshire,Meta,219,226,False
+Melissa Pierce,Machine Learning Engineer,New Hampshire,Meta,236,302,False
+Amy Ruiz,Data Analyst,Massachusetts,Meta,161,335,False
+Annette Garcia,Data Engineer,North Carolina,Meta,204,286,False
+Loretta Woods,Product Manager,Massachusetts,Meta,45,82,True
+Stephanie Smith,Data Analyst,New Hampshire,Meta,176,260,False
+Meagan Knight,Product Manager,Kentucky,Meta,16,68,True
+Larry Norton,3D Artist,Wisconsin,Meta,198,287,False
+Michelle Peters,Data Analyst,Idaho,Meta,29,304,False
+Angelica Clark,Product Manager,Kentucky,Meta,236,253,False
+Anthony Perez,3D Artist,Pennsylvania,Meta,6,243,True
+Tyler Gordon,Data Analyst,Washington,Meta,208,346,False
+Michael Gilbert,Associate General Counsel Data Protection,Mississippi,Meta,158,303,False
+Courtney Burke,Data Analyst,Utah,Meta,210,217,False
+Russell Mason,Software Engineer ,Nebraska,Meta,18,260,True
+Brittany Murray,Data Analyst,Maryland,Meta,87,94,False
+Christopher Lyons,Data Scientist ,Iowa,Meta,30,213,False
+Maria Holland,Data Scientist,Pennsylvania,Meta,29,72,True
+Daniel Glenn,Data Scientist ,Indiana,Meta,227,282,False
+Nicholas Lee,Data Scientist ,Pennsylvania,Meta,233,238,False
+Lindsay Lowe,3D Artist,Delaware,Meta,51,242,False
+Crystal Fisher,Data Engineer,Louisiana,Meta,181,286,False
+Paula Campbell,Program Manager,Illinois,Meta,163,240,False
+Michael Rhodes,Data Engineer,Hawaii,Meta,166,348,False
+Monique Martin,Program Manager,North Carolina,Meta,5,304,True
+Richard Smith,Data Analyst,Arizona,Meta,140,169,False
+Ryan Morse,Data Engineer,Maine,Meta,77,255,False
+Kathleen Andrews,Data Scientist ,New Jersey,Meta,233,284,False
+David Ford,Product Manager,Alabama,Meta,171,322,False
+Benjamin Dunlap DVM,Software Engineer ,Maryland,Meta,116,241,False
+Natalie Mahoney,Associate General Counsel Data Protection,Kentucky,Meta,90,133,False
+Erica Crawford,Product Manager,Maine,Meta,115,230,False
+Frank Parrish,Data Scientist ,Georgia,Meta,105,193,False
+David Dean,Data Engineer,Iowa,Meta,96,160,False
+Thomas Lewis,Data Scientist ,District of Columbia,Meta,115,329,False
+Katrina Lee,Program Manager,Georgia,Meta,59,186,False
+Michelle Johnson,Data Scientist ,Iowa,Meta,52,62,False
+Benjamin Carroll,Data Analyst,Delaware,Meta,108,139,False
+Pamela Bond,Data Engineer,Kansas,Meta,10,113,True
+Shelby Lopez,Associate General Counsel Data Protection,Washington,Meta,135,293,False
+Anthony Rodriguez,Program Manager,Kentucky,Meta,68,214,False
+Richard Taylor,Program Manager,South Carolina,Meta,141,214,False
+Shannon Gray,Data Scientist,Missouri,Meta,75,288,False
+Edward Bentley,Program Manager,North Dakota,Meta,54,224,False
+Kimberly Campbell,Associate General Counsel Data Protection,Texas,Meta,135,272,False
+Tony Bishop,Data Scientist ,Colorado,Meta,165,352,False
+Jacqueline Watson,Data Scientist ,Ohio,Meta,9,27,True
+Tina Duncan,Data Engineer,Arkansas,Meta,107,128,False
+Roger Reed,Associate General Counsel Data Protection,Oklahoma,Meta,68,82,False
+Christine Atkins,Data Engineer,Kentucky,Meta,21,286,False
+Troy Powell,Data Scientist,South Dakota,Meta,43,319,False
+Diane Baker,Data Engineer,Nevada,Meta,108,252,False
+Alyssa Hayes,Data Engineer,Illinois,Meta,59,136,False
+Vanessa Beard,3D Artist,Indiana,Meta,43,334,False
+Bradley Benjamin,Machine Learning Engineer,Hawaii,Meta,76,232,False
+Julia Turner,3D Artist,Connecticut,Meta,235,320,False
+Madison Aguirre,Software Engineer ,Georgia,Meta,35,269,False
+Brooke Mccall,Project Manager ,New Jersey,Meta,221,357,False
+David Torres,Machine Learning Engineer,Pennsylvania,Meta,31,95,True
+Erin Hernandez,Program Manager,Michigan,Meta,206,224,False
+Vanessa Burns,Data Analyst,New York,Meta,167,306,False
+Cynthia Soto DDS,Data Scientist,North Carolina,Meta,185,261,False
+Jessica Huynh,Software Engineer ,Washington,Meta,197,222,False
+Shirley Reynolds,Associate General Counsel Data Protection,Georgia,Meta,233,332,False
+Christina Baxter,Data Scientist ,Virginia,Meta,70,101,False
+Megan Ward,Product Manager,New York,Meta,60,89,False
+Elizabeth Harmon,Program Manager,Louisiana,Meta,67,190,False
+Brittany Cantu,Data Scientist,Ohio,Meta,33,282,False
+Carlos Thornton,3D Artist,Illinois,Meta,189,282,False
+Rachel Hill,Project Manager ,Maine,Meta,201,356,False
+Justin Sosa,Product Manager,Colorado,Meta,98,166,False
+Ian Fisher,Data Scientist,Ohio,Meta,39,355,False
+Penny Abbott,Data Engineer,Texas,Meta,98,341,False
+Michael Thompson,Project Manager ,Kansas,Meta,157,330,False
+Richard Thomas,Data Scientist ,Illinois,Meta,93,97,False
+Vincent Davis,Data Analyst,Hawaii,Meta,208,239,False
+Tom Crosby,Machine Learning Engineer,Minnesota,Meta,229,305,False
+Thomas Burns,Associate General Counsel Data Protection,Connecticut,Meta,181,219,False
+Chelsey Jensen,3D Artist,Florida,Meta,84,292,False
+William Brown,Associate General Counsel Data Protection,Missouri,Meta,112,340,False
+Mr. Reginald West,Data Analyst,Michigan,Meta,75,145,False
+Brandon Sullivan,Data Scientist,Montana,Meta,155,340,False
+Mike Austin,Data Analyst,New Hampshire,Meta,31,130,True
+Kyle Harper,Data Scientist ,Indiana,Meta,193,231,False
+Joseph Moody DVM,Data Engineer,Hawaii,Meta,147,188,False
+Carrie Boyd,Software Engineer ,Wyoming,Meta,96,272,False
+Andrew Cook MD,3D Artist,Oklahoma,Meta,171,284,False
+Joanne Rose,Data Scientist ,New Mexico,Meta,181,331,False
+Russell Moran,Data Scientist,Nebraska,Meta,65,254,False
+Jack Martin,Software Engineer ,Florida,Meta,189,298,False
+Christopher Mendoza,Software Engineer ,West Virginia,Meta,97,252,False
+Brandon Mann,Associate General Counsel Data Protection,New Mexico,Meta,1,155,True
+Jesse Clark,Data Engineer,California,Meta,51,327,False
+Cynthia Ferguson,Software Engineer ,Alaska,Meta,27,301,False
+Mr. David Evans II,Program Manager,Alabama,Meta,189,248,False
+Michelle Allen,Data Scientist ,Illinois,Meta,118,231,False
+Anthony Phillips,Machine Learning Engineer,Delaware,Meta,63,229,False
+Michael Wright,Product Manager,Pennsylvania,Meta,152,220,False
+Michael Maldonado,Associate General Counsel Data Protection,Hawaii,Meta,198,285,False
+Geoffrey Freeman,Machine Learning Engineer,Idaho,Meta,195,214,False
+Sean Arellano Jr.,Machine Learning Engineer,Massachusetts,Meta,165,182,False
+Lucas Reyes,Project Manager ,Colorado,Meta,150,355,False
+Tiffany Harris,Project Manager ,South Carolina,Meta,107,227,False
+Carmen Gilmore,Product Manager,Kentucky,Meta,155,315,False
+Robin Holder MD,Product Manager,Alabama,Meta,9,77,True
+Edward Moore,Program Manager,Florida,Meta,83,296,False
+Theodore Rivera,Software Engineer ,Rhode Island,Meta,128,359,False
+Bobby Castaneda,Software Engineer ,Florida,Meta,222,311,False
+Bradley Moore,Data Analyst,Delaware,Meta,24,293,False
+Ronald Johnson,Program Manager,Kentucky,Meta,140,310,False
+Stephanie Kennedy,Data Scientist ,Washington,Meta,139,355,False
+Todd Williams,Project Manager ,Kansas,Meta,25,328,False
+Vincent Dominguez,Product Manager,Colorado,Meta,197,318,False
+Christian Mason,Data Engineer,North Dakota,Meta,142,148,False
+Betty Baker,Program Manager,Louisiana,Meta,3,326,True
+Brenda Byrd,Data Analyst,New York,Meta,94,328,False
+Lisa Lee,Program Manager,Hawaii,Meta,133,289,False
+Charles Brown,Program Manager,Connecticut,Meta,36,241,False
+Paul Thompson,Data Analyst,Michigan,Meta,175,253,False
+Anthony Marsh,Software Engineer ,Kansas,Meta,106,240,False
+Bryan Williams,3D Artist,Washington,Meta,220,300,False
+Michael Pratt,3D Artist,Washington,Meta,149,300,False
+Shelia Barton,Machine Learning Engineer,Wyoming,Meta,64,263,False
+Victor Marks,Project Manager ,New York,Meta,7,284,True
+Jeffery Coleman,Data Analyst,Maryland,Meta,193,243,False
+Derek Malone,Data Scientist ,Missouri,Meta,91,100,False
+Adam Krause,Data Analyst,Nevada,Meta,106,198,False
+Rachel Davies,3D Artist,Florida,Meta,196,281,False
+Dominique Henderson,Data Scientist ,Oregon,Meta,34,155,True
+Jason Garcia,Project Manager ,Michigan,Meta,137,188,False
+Joe Steele,Data Engineer,Connecticut,Meta,34,160,True
+Kyle Walker,Product Manager,Illinois,Meta,100,107,False
+Sarah Zamora,Data Scientist,Indiana,Meta,60,87,False
+John Gomez,Project Manager ,North Dakota,Meta,52,348,False
+Jacqueline Estrada,Project Manager ,Maine,Meta,123,322,False
+Kristen Ferguson,Project Manager ,Maryland,Meta,101,146,False
+Ashley Dunn,Data Analyst,Ohio,Meta,95,232,False
+Gavin Lawrence,Associate General Counsel Data Protection,Idaho,Meta,217,263,False
+Greg Berg,Software Engineer ,Louisiana,Meta,122,180,False
+Diana Gonzales,3D Artist,Alabama,Meta,22,278,False
+Rebecca Potts,Product Manager,Alaska,Meta,148,295,False
+Yvonne Case,Software Engineer ,Alaska,Meta,86,113,False
+Steven Stevens,Software Engineer ,Kentucky,Meta,98,330,False
+Sean Jacobs,Machine Learning Engineer,Indiana,Meta,239,345,False
+Maria Rice,Associate General Counsel Data Protection,Maine,Meta,150,244,False
+Robert Kelly,Data Scientist,Idaho,Meta,147,342,False
+Kelsey Wilson,Associate General Counsel Data Protection,Oregon,Meta,36,131,True
+Amanda Randolph,Project Manager ,Virginia,Meta,30,308,False
+John Lane,3D Artist,Maryland,Meta,185,195,False
+Danielle Taylor,Machine Learning Engineer,Illinois,Meta,43,115,False
+Michelle Delgado,Data Scientist ,Oregon,Meta,32,114,True
+Kylie Durham,Data Engineer,Nevada,Meta,136,351,False
+Connie Torres,Product Manager,Kentucky,Meta,137,198,False
+Andrew Steele,3D Artist,Delaware,Meta,24,314,False
+Sarah Martin,Project Manager ,Oregon,Meta,223,354,False
+Alexander Moss,Machine Learning Engineer,Iowa,Meta,56,71,False
+Elizabeth Juarez,Data Scientist,Florida,Meta,25,87,True
+Jason Rowe Jr.,Product Manager,Indiana,Meta,107,228,False
+Johnny Guerra,Associate General Counsel Data Protection,Oregon,Meta,27,125,True
+Sarah Hayes,Associate General Counsel Data Protection,Kansas,Meta,238,285,False
+Thomas Jenkins,3D Artist,Kansas,Meta,216,303,False
+Kari Hernandez,3D Artist,Washington,Meta,186,210,False
+James Davis,Data Scientist,Tennessee,Meta,184,233,False
+Natalie Cole,Data Scientist ,South Dakota,Meta,53,333,False
+Jamie Kelley,Data Scientist,Connecticut,Meta,144,339,False
+Sheryl Smith,Data Scientist ,Georgia,Meta,74,248,False
+Mrs. Stacy Harvey DVM,3D Artist,Alabama,Meta,149,215,False
+Lisa Fitzgerald,Data Scientist,Illinois,Meta,223,235,False
+Tom Roman,3D Artist,Arizona,Meta,154,282,False
+Matthew Garza,Data Engineer,Arkansas,Meta,98,324,False
+Sharon Thompson,Machine Learning Engineer,Georgia,Meta,206,345,False
+Jamie Vega,3D Artist,Mississippi,Meta,91,334,False
+Amy Parks,Machine Learning Engineer,New Jersey,Meta,55,307,False
+Haley White,Associate General Counsel Data Protection,Kansas,Meta,106,281,False
+Charles Blake,3D Artist,Ohio,Meta,206,325,False
+David Fischer,Project Manager ,South Dakota,Meta,41,271,False
+Brooke May,Data Scientist ,North Carolina,Meta,80,169,False
+Megan Morris,Data Scientist,South Dakota,Meta,234,265,False
+Raymond Wilson,Associate General Counsel Data Protection,Missouri,Meta,239,295,False
+Christopher Shelton,Data Analyst,California,Meta,34,43,True
+Jack Garcia,Product Manager,South Dakota,Meta,235,302,False
+David Woodward,Data Engineer,Pennsylvania,Meta,82,161,False
+Daniel Hartman,Data Engineer,New York,Meta,132,307,False
+Amanda Jimenez,3D Artist,Louisiana,Meta,199,332,False
+Jamie Walker,Machine Learning Engineer,South Dakota,Meta,149,334,False
+Brad Payne,3D Artist,Washington,Meta,188,212,False
+Patricia Fields,Data Scientist,Florida,Meta,59,297,False
+Joseph Lewis,3D Artist,New Jersey,Meta,80,266,False
+Nicole Hurst,Software Engineer ,Kansas,Meta,52,115,False
+Justin Leon,Data Analyst,Nebraska,Meta,202,285,False
+Audrey Casey,Data Scientist ,Ohio,Meta,217,337,False
+Juan Gardner,Product Manager,California,Meta,56,262,False
+Joshua Banks,Software Engineer ,Indiana,Meta,199,315,False
+Keith Wolf,3D Artist,Georgia,Meta,28,307,False
+Christina King,Data Analyst,Delaware,Meta,182,251,False
+Chad Miller,Machine Learning Engineer,Maine,Meta,197,220,False
+Bryan Wood,Data Scientist,New York,Meta,175,214,False
+Scott Savage,Data Analyst,Michigan,Meta,67,173,False
+Jennifer Reilly,Data Analyst,Louisiana,Meta,155,179,False
+Jennifer Estes,Software Engineer ,Oregon,Meta,128,273,False
+Timothy Johnson,Data Scientist ,South Dakota,Meta,88,345,False
+Marc Torres,Product Manager,Nebraska,Meta,174,323,False
+Monica Leblanc,Software Engineer ,Kentucky,Meta,18,202,True
+Samantha Martinez,Data Analyst,New Mexico,Meta,34,36,True
+Jennifer Hernandez,Project Manager ,District of Columbia,Meta,97,180,False
+Valerie Cortez,Product Manager,Connecticut,Meta,155,309,False
+Katrina Lee,Program Manager,Indiana,Meta,116,296,False
+Daisy Sullivan,Product Manager,Wisconsin,Meta,56,63,False
+David Garza,Software Engineer ,Kentucky,Meta,191,350,False
+Alex Scott,Program Manager,Hawaii,Meta,80,278,False
+Amy Garcia,Machine Learning Engineer,New Hampshire,Meta,70,162,False
+Abigail Brown,3D Artist,Michigan,Meta,99,314,False
+Kenneth Banks,Data Analyst,Georgia,Meta,214,288,False
+Linda Herrera,Data Scientist ,Montana,Meta,144,261,False
+Kelsey Potts,Data Engineer,Louisiana,Meta,143,199,False
+Joshua Reed,Data Scientist,New Hampshire,Meta,216,217,False
+Kendra Gross,Product Manager,Montana,Meta,213,289,False
+Victor Bell,3D Artist,Wyoming,Meta,219,281,False
+Kristin Swanson,Data Scientist,Oregon,Meta,174,239,False
+April Wright,Product Manager,Mississippi,Meta,53,337,False
+Brittany Rice,Software Engineer ,New Mexico,Meta,88,236,False
+Jill Olson,Data Scientist ,Arkansas,Meta,98,277,False
+Bethany Mcdowell,Data Scientist ,Colorado,Meta,111,170,False
+Tara Sutton,Project Manager ,Arizona,Meta,95,109,False
+Lori Garcia,Product Manager,New York,Meta,226,278,False
+Jeffrey Cole,Associate General Counsel Data Protection,Louisiana,Meta,45,61,True
+Eric Cortez,Product Manager,Washington,Meta,193,302,False
+Sarah Harper,Machine Learning Engineer,Rhode Island,Meta,110,268,False
+Corey Christian,Program Manager,Massachusetts,Meta,211,221,False
+Miranda Alvarez,Data Scientist ,Texas,Meta,46,262,False
+Lawrence Wong,Data Scientist ,Pennsylvania,Meta,79,182,False
+Alyssa Sanchez,Associate General Counsel Data Protection,Michigan,Meta,100,270,False
+Adriana Smith,3D Artist,Mississippi,Meta,193,198,False
+Donald Baker,Data Scientist ,North Dakota,Meta,91,146,False
+Natasha Smith,Project Manager ,Utah,Meta,43,319,False
+Michelle Myers,Product Manager,Pennsylvania,Meta,239,327,False
+Amy Miller,Data Scientist ,Idaho,Meta,197,215,False
+Kevin Bennett,Product Manager,North Carolina,Meta,93,304,False
+Alexander Allen,Data Scientist,Louisiana,Meta,144,161,False
+Jeffrey Phillips,Product Manager,West Virginia,Meta,190,325,False
+Elizabeth Whitaker,Data Scientist,Rhode Island,Meta,125,356,False
+Samantha Moore,Software Engineer ,Ohio,Meta,193,248,False
+Maria Ferguson,Project Manager ,Wyoming,Meta,131,349,False
+Adam Green,Product Manager,Connecticut,Meta,133,149,False
+Melinda Patton,Data Engineer,District of Columbia,Meta,206,274,False
+Nicole Howe,Data Engineer,Ohio,Meta,31,83,True
+Christina Horton,Machine Learning Engineer,Michigan,Meta,213,311,False
+Jessica Walker,Product Manager,District of Columbia,Meta,188,219,False
+Amber Cook,Program Manager,Virginia,Meta,109,272,False
+Sean Burns,3D Artist,Mississippi,Meta,161,211,False
+Matthew Solomon,Data Engineer,Hawaii,Meta,52,57,False
+John White,Data Scientist ,New Mexico,Meta,34,162,True
+Nicole Moore,Program Manager,California,Meta,10,41,True
+Tiffany Goodwin,Project Manager ,Maine,Meta,164,252,False
+Cynthia Hartman,Data Scientist,California,Meta,189,227,False
+Jeanette Woods,Data Analyst,Oklahoma,Meta,140,184,False
+Michael Dean,Data Scientist,Louisiana,Meta,172,179,False
+Dana Jacobs,Data Analyst,Washington,Meta,191,303,False
+Rachel Miller,Data Engineer,Rhode Island,Meta,185,281,False
+Paula Howard,Software Engineer ,Montana,Meta,94,246,False
+Frank Holland,Data Scientist ,Ohio,Meta,44,223,False
+Dominique Manning,Program Manager,Oklahoma,Meta,11,105,True
+Stephen Mann,Data Scientist ,Rhode Island,Meta,50,324,False
+Christopher Martin,Data Scientist,Texas,Meta,125,263,False
+Mr. Cody Fischer DDS,Data Scientist ,Mississippi,Meta,62,197,False
+Shannon Wood,Data Scientist,Idaho,Meta,208,348,False
+Robert Russo,Machine Learning Engineer,District of Columbia,Meta,116,244,False
+Melissa Smith,Data Scientist ,Texas,Meta,4,55,True
+Natalie Barr,Data Scientist ,Vermont,Meta,144,339,False
+Mark Newton,Data Scientist ,Wyoming,Meta,82,101,False
+Raymond Garcia,Product Manager,South Dakota,Meta,173,260,False
+Crystal Fields,3D Artist,Delaware,Meta,62,83,False
+Shannon Perry,Software Engineer ,Arkansas,Meta,121,249,False
+Joanne Black DVM,Data Scientist,Rhode Island,Meta,64,158,False
+Dana Ward,Project Manager ,North Carolina,Meta,213,342,False
+Tyler Patterson,Data Engineer,Wisconsin,Meta,238,322,False
+Shannon Weiss,Data Analyst,South Carolina,Meta,235,295,False
+Melanie Rodriguez,Project Manager ,New Hampshire,Meta,205,227,False
+Kevin Ho,Data Scientist,Oklahoma,Meta,143,295,False
+Patrick Morrison,Machine Learning Engineer,Nebraska,Meta,175,279,False
+Steven George,3D Artist,New Hampshire,Meta,33,241,False
+Omar Summers,3D Artist,Maine,Meta,199,253,False
+Susan King,Data Analyst,New Mexico,Meta,153,358,False
+Joseph Woods,Product Manager,New Mexico,Meta,218,275,False
+Kyle Pham,Data Scientist,Florida,Meta,160,199,False
+Crystal Gray,Data Scientist,District of Columbia,Meta,15,125,True
+John Carroll,Associate General Counsel Data Protection,Oklahoma,Meta,14,33,True
+Alexandra Ramirez,Product Manager,Oregon,Meta,144,241,False
+Lisa Owens,Data Analyst,Tennessee,Meta,170,333,False
+Jennifer Fowler,Data Analyst,New York,Meta,26,205,True
+Carlos Adams,3D Artist,Wyoming,Meta,35,185,False
+Vickie Morrison,3D Artist,South Dakota,Meta,34,153,True
+Lindsey Gibson,Product Manager,Wyoming,Meta,100,235,False
+Beth Dickson,Machine Learning Engineer,Michigan,Meta,161,292,False
+April Burnett,Project Manager ,Missouri,Meta,68,242,False
+Timothy Gomez,Program Manager,Kentucky,Meta,218,310,False
+Lisa Smith,Data Scientist ,Kansas,Meta,100,158,False
+Jessica Kirby,Data Engineer,Maine,Meta,65,105,False
+Isaac Wright,3D Artist,California,Meta,79,157,False
+Teresa Mooney,Program Manager,Tennessee,Meta,105,167,False
+Jessica Chase,Data Scientist,Ohio,Meta,191,238,False
+David Pacheco,Product Manager,Idaho,Meta,28,198,True
+Jill Callahan,Data Analyst,Vermont,Meta,15,281,True
+Jennifer Wright,Software Engineer ,Utah,Meta,164,341,False
+Philip Williams,Data Analyst,District of Columbia,Meta,222,301,False
+Heather Murray,Data Scientist,Illinois,Meta,218,350,False
+Laura Flores,Machine Learning Engineer,Massachusetts,Meta,6,239,True
+Isabella Sims,Data Scientist ,West Virginia,Meta,101,315,False
+Beth Anderson,Project Manager ,Maryland,Meta,158,339,False
+Nicholas Lyons,Product Manager,Alabama,Meta,209,281,False
+Debra Nielsen DDS,Project Manager ,Washington,Meta,30,68,True
+Anna Jenkins,Machine Learning Engineer,Kansas,Meta,103,181,False
+Michael Roberts,Data Scientist,North Carolina,Meta,55,353,False
+Stephen Oliver,Project Manager ,Arizona,Meta,229,293,False
+Nancy Taylor,Product Manager,Oregon,Meta,69,113,False
+Robert Carter,Data Analyst,Oregon,Meta,102,175,False
+Dwayne Gross,Data Scientist ,Nebraska,Meta,179,259,False
+Douglas Sanford,3D Artist,Idaho,Meta,179,214,False
+Emily Anderson,Machine Learning Engineer,Connecticut,Meta,231,270,False
+Mr. James Mendez,Associate General Counsel Data Protection,Georgia,Meta,131,244,False
+Dustin Sosa,Project Manager ,Georgia,Meta,164,261,False
+Linda Moore,Machine Learning Engineer,New Hampshire,Meta,80,95,False
+Kimberly Galvan,Product Manager,Oklahoma,Meta,144,210,False
+Cheryl Murphy,Data Scientist,Alaska,Meta,163,284,False
+Mrs. Samantha Reynolds,Associate General Counsel Data Protection,Montana,Meta,222,240,False
+Brian Alvarez,3D Artist,North Dakota,Meta,231,305,False
+Michael Frost,Product Manager,West Virginia,Meta,125,271,False
+Lisa Martinez,Product Manager,South Carolina,Meta,154,299,False
+Jeffrey Martin,Project Manager ,Ohio,Meta,50,343,False
+Heather Moreno,Program Manager,Oklahoma,Meta,21,317,False
+Charles Hill,Data Analyst,Wisconsin,Meta,53,291,False
+Lauren Ashley,Software Engineer ,Minnesota,Meta,152,170,False
+Valerie Bowers,Data Scientist ,Louisiana,Meta,80,259,False
+Madeline Stuart,Product Manager,Missouri,Meta,161,198,False
+Gabriela Strickland,Associate General Counsel Data Protection,Nevada,Meta,31,327,False
+Tiffany Clayton,Data Analyst,Indiana,Meta,179,247,False
+Bridget Hale,Data Engineer,New Hampshire,Meta,81,196,False
+Brandi Delacruz,Data Analyst,Washington,Meta,220,240,False
+Michael Sanchez,Data Scientist ,South Carolina,Meta,106,288,False
+Bob Dunlap,Associate General Counsel Data Protection,Wisconsin,Meta,152,158,False
+Cindy Harris,Machine Learning Engineer,Louisiana,Meta,25,25,True
+Tammy Carr,Associate General Counsel Data Protection,New Hampshire,Meta,177,333,False
+Charles Hill,Data Analyst,South Dakota,Meta,217,346,False
+Abigail Henderson,Data Engineer,North Dakota,Meta,202,223,False
+Candace Morris,Data Scientist ,Louisiana,Meta,1,77,True
+Andrew Hall,Machine Learning Engineer,North Carolina,Meta,161,329,False
+Karen Flowers,Data Scientist,Kentucky,Meta,82,165,False
+Pamela Pace,Software Engineer ,Kentucky,Meta,31,320,False
+Christopher Brown,Data Scientist,Virginia,Meta,211,233,False
+James Morgan,Data Scientist,Montana,Meta,132,166,False
+Vanessa Avila,Project Manager ,New Hampshire,Meta,50,138,False
+Jennifer Parker,Software Engineer ,Wisconsin,Meta,199,339,False
+Erika Bass,Product Manager,South Dakota,Meta,38,44,True
+Joseph Bradley,Product Manager,Oklahoma,Meta,208,300,False
+Wendy Tran,Software Engineer ,Connecticut,Meta,4,256,True
+Mrs. Connie Campbell,Project Manager ,Wyoming,Meta,33,205,False
+Kenneth Juarez,Machine Learning Engineer,Pennsylvania,Meta,158,204,False
+Linda Diaz,Data Analyst,Georgia,Meta,196,262,False
+Tiffany Stewart,3D Artist,Georgia,Meta,29,113,True
+Christina Rice,Project Manager ,Montana,Meta,44,266,False
+Taylor Griffin,Data Scientist ,Nebraska,Meta,94,253,False
+Heather Garrison,Product Manager,West Virginia,Meta,26,259,False
+Laurie Sanchez,Product Manager,Utah,Meta,64,123,False
+Dalton Bray,3D Artist,Montana,Meta,239,359,False
+Daniel Lewis,Product Manager,New Mexico,Meta,18,168,True
+Gerald Bishop,Data Scientist,Michigan,Meta,183,196,False
+Christine Carr,Program Manager,Wyoming,Meta,31,337,False
+Thomas Roberts,Software Engineer ,Wisconsin,Meta,101,250,False
+Tracy Miranda,Project Manager ,Iowa,Meta,72,75,False
+Mr. Gabriel Horn,Project Manager ,Michigan,Meta,152,164,False
+Kevin Robinson,Machine Learning Engineer,South Carolina,Meta,114,319,False
+Antonio Wilson,3D Artist,Louisiana,Meta,8,316,True
+Nicole Alvarado,Data Analyst,Oregon,Meta,31,295,False
+Elizabeth Johnson,Data Scientist ,Colorado,Meta,104,228,False
+Cheryl Mcclure,3D Artist,Florida,Meta,97,181,False
+Brian Thomas,Software Engineer ,Texas,Meta,210,283,False
+Mrs. Jacqueline Bates DDS,Machine Learning Engineer,Minnesota,Meta,168,224,False
+Tara Gamble,Data Engineer,Montana,Meta,189,307,False
+Gregory Perez,Data Scientist ,Alabama,Meta,26,91,True
+Amanda Mason,Data Engineer,Tennessee,Meta,224,340,False
+Shawn Williams,Associate General Counsel Data Protection,Maine,Meta,108,263,False
+Shaun Rose,Product Manager,Idaho,Meta,104,346,False
+Darrell Horton,Data Analyst,Texas,Meta,147,233,False
+Andrew Johnston,Data Engineer,Michigan,Meta,130,292,False
+Katherine Clements DVM,Software Engineer ,West Virginia,Meta,131,276,False
+Todd Peters,3D Artist,Missouri,Meta,214,225,False
+Steve Knight,Machine Learning Engineer,Virginia,Meta,222,275,False
+Savannah Thomas,Data Scientist,Illinois,Meta,60,270,False
+Gregg Larson,Associate General Counsel Data Protection,Alabama,Meta,12,351,False
+Charles Carter,Data Engineer,Pennsylvania,Meta,1,222,True
+Nicole Garrett,Product Manager,New York,Meta,86,177,False
+Yolanda Dudley,Data Scientist,Maine,Meta,161,245,False
+Russell Porter,Associate General Counsel Data Protection,Utah,Meta,228,350,False
+Dr. Brandon Ruiz,Machine Learning Engineer,Louisiana,Meta,134,273,False
+Phyllis Wood,Software Engineer ,New Hampshire,Meta,70,335,False
+Michael Young,Data Analyst,Maine,Meta,175,249,False
+Stephanie Callahan,Product Manager,Hawaii,Meta,222,264,False
+Leslie Hughes,Product Manager,North Dakota,Meta,64,215,False
+Danielle Cantu,Program Manager,Alabama,Meta,169,232,False
+Raven Cortez,Product Manager,Hawaii,Meta,64,223,False
+Charles Crawford,Project Manager ,Delaware,Meta,19,187,True
+Jennifer Ford,3D Artist,Minnesota,Meta,6,118,True
+John Ortega,Data Analyst,Colorado,Meta,221,325,False
+Andre Wallace,Program Manager,Oregon,Meta,235,317,False
+Toni Miranda,Project Manager ,Missouri,Meta,203,356,False
+Vickie Sexton,Data Analyst,Indiana,Meta,197,279,False
+Ronald Arias,Software Engineer ,Virginia,Meta,114,328,False
+Abigail Conway,Software Engineer ,Oklahoma,Meta,47,60,True
+Chloe Cole,Data Scientist,Alabama,Meta,22,102,True
+Nicholas Larson,Data Engineer,Wyoming,Meta,210,304,False
+Tiffany Harris,Project Manager ,Rhode Island,Meta,113,162,False
+Kevin Porter,Program Manager,New Hampshire,Meta,52,194,False
+Michael Adams,Data Engineer,Connecticut,Meta,159,169,False
+Adam Rodriguez,Software Engineer ,Delaware,Meta,214,218,False
+Emily Matthews,Project Manager ,Alabama,Meta,136,318,False
+Garrett Mora,Product Manager,Utah,Meta,60,158,False
+George Wells,Associate General Counsel Data Protection,West Virginia,Meta,42,77,True
+Phillip Cantrell,Product Manager,Mississippi,Meta,115,299,False
+Jake Tucker,Machine Learning Engineer,Arizona,Meta,127,268,False
+Pamela Burke,Data Scientist,Oklahoma,Meta,12,334,True
+Karen Smith,Data Scientist,South Carolina,Meta,150,231,False
+David Huerta,Project Manager ,Missouri,Meta,123,217,False
+John Bradley,Project Manager ,Alaska,Meta,127,289,False
+Carol Medina,3D Artist,North Carolina,Meta,190,275,False
+Rhonda Kelly,Data Scientist ,Massachusetts,Meta,61,288,False
+Robert Lewis,Project Manager ,Maryland,Meta,221,319,False
+Charlene Wilson,Product Manager,New York,Meta,92,294,False
+Edward Clarke,Data Scientist,Utah,Meta,137,340,False
+James Smith,Project Manager ,Arizona,Meta,210,352,False
+William Harvey,Data Scientist,Indiana,Meta,132,224,False
+David Turner,Project Manager ,Alaska,Meta,85,312,False
+Heather Ortega,Machine Learning Engineer,District of Columbia,Meta,9,192,True
+Amy Hernandez,Project Manager ,Virginia,Meta,146,256,False
+Carol Tyler,Product Manager,Missouri,Meta,61,221,False
+Kiara Smith,Product Manager,Mississippi,Meta,99,254,False
+John Hendricks,Project Manager ,Michigan,Meta,224,274,False
+Cynthia King,Data Engineer,West Virginia,Meta,81,300,False
+Anthony Potts,Data Scientist ,Alaska,Meta,235,359,False
+Monica Solis,3D Artist,Minnesota,Meta,111,318,False
+Donald Rodriguez,Data Engineer,Minnesota,Meta,27,64,True
+Daisy Burnett,Product Manager,Washington,Meta,153,272,False
+Jerry Watson,Program Manager,Connecticut,Meta,185,353,False
+Jonathan Gutierrez,Data Scientist,New Mexico,Meta,181,347,False
+Andrea Robinson,Associate General Counsel Data Protection,Nevada,Meta,148,192,False
+Kevin Perez,Data Engineer,Maryland,Meta,149,212,False
+Mary Bray,Project Manager ,Idaho,Meta,150,215,False
+Diane Boyd,Associate General Counsel Data Protection,Florida,Meta,197,314,False
+William Johnson,Project Manager ,Minnesota,Meta,147,215,False
+Lisa Mcguire,Data Scientist,South Carolina,Meta,145,270,False
+Paul Reed,Product Manager,California,Meta,79,138,False
+John Ortega,Data Scientist ,Idaho,Meta,185,229,False
+Amy Williams,Data Scientist ,Mississippi,Meta,164,203,False
+Melissa Roberts,Data Scientist,Alaska,Meta,239,300,False
+Jamie Rodriguez,Associate General Counsel Data Protection,New Hampshire,Meta,33,356,False
+Jon Howard,Software Engineer ,Utah,Meta,54,244,False
+Cassandra Johnson,Software Engineer ,Kentucky,Meta,76,212,False
+Brittany Romero,3D Artist,New York,Meta,35,68,True
+Christopher Petty,Data Analyst,Florida,Meta,239,331,False
+Stephen Odonnell,Data Scientist,Virginia,Meta,26,93,True
+Wayne Schmidt,Program Manager,Alaska,Meta,2,241,True
+Lisa Craig,Project Manager ,South Carolina,Meta,90,211,False
+Ashley Meyer,Data Scientist ,Massachusetts,Meta,158,235,False
+Charles Roberts,Associate General Counsel Data Protection,Vermont,Meta,11,155,True
+Lisa Larson,Data Analyst,New Jersey,Meta,80,305,False
+Anna Stevens,Program Manager,Iowa,Meta,129,287,False
+Kim Lang,Data Scientist ,Arizona,Meta,4,196,True
+Natasha Dunn,Product Manager,Hawaii,Meta,39,161,False
+Anthony Lee,Product Manager,New Hampshire,Meta,68,226,False
+Rebecca Martin,Data Engineer,Iowa,Meta,22,48,True
+Lindsay Patterson,3D Artist,Ohio,Meta,96,106,False
+Eric James IV,Software Engineer ,South Dakota,Meta,70,106,False
+Katie Thomas,Software Engineer ,Indiana,Meta,138,254,False
+Daniel Curtis,Data Scientist,Tennessee,Meta,239,239,False
+Kristy Caldwell,Project Manager ,Florida,Meta,232,287,False
+Donna Miller,Software Engineer ,Georgia,Meta,236,345,False
+Rachel Clark,Data Scientist ,Connecticut,Meta,70,336,False
+Luis Walton,Data Engineer,Ohio,Meta,4,43,True
+Brian Monroe,Data Engineer,Connecticut,Meta,206,243,False
+Benjamin Evans,Data Analyst,South Dakota,Meta,145,170,False
+Kyle Richardson,Data Engineer,Oklahoma,Meta,236,359,False
+Gina Gonzalez,Data Scientist,Kansas,Meta,47,175,False
+Mark Sullivan,Program Manager,California,Meta,185,327,False
+Stephanie Jenkins,3D Artist,Mississippi,Meta,56,236,False
+James Simpson,Associate General Counsel Data Protection,California,Meta,207,260,False
+Kevin Flores,Product Manager,Ohio,Meta,189,189,False
+Brent Brock,Machine Learning Engineer,Connecticut,Meta,143,203,False
+Andrea Hernandez,Data Scientist ,Alaska,Meta,67,166,False
+Timothy Taylor,Data Scientist,California,Meta,96,167,False
+Kelsey Garcia,Data Analyst,South Dakota,Meta,8,152,True
+Jade Serrano,Associate General Counsel Data Protection,Minnesota,Meta,195,264,False
+Danielle Henderson,Machine Learning Engineer,Kentucky,Meta,231,289,False
+Lisa Thompson,Program Manager,Alaska,Meta,116,323,False
+Michael Montgomery,Project Manager ,Vermont,Meta,143,247,False
+Ronald Brown,Data Analyst,Tennessee,Meta,78,307,False
+Grant Davis,Software Engineer ,South Dakota,Meta,12,91,True
+Frank Black,Product Manager,South Dakota,Meta,224,334,False
+Richard Nolan,3D Artist,Oregon,Meta,163,169,False
+Elizabeth Willis,Project Manager ,Colorado,Meta,107,304,False
+Jenny Warren,Data Scientist,Oregon,Meta,214,321,False
+Brenda Gutierrez,3D Artist,District of Columbia,Meta,173,245,False
+Kristopher Dickerson,Associate General Counsel Data Protection,Mississippi,Meta,141,251,False
+Brian Griffin,Program Manager,Michigan,Meta,175,257,False
+Anthony Mccormick,Data Engineer,South Dakota,Meta,8,346,True
+John Black,Software Engineer ,Kansas,Meta,74,286,False
+Christina Nguyen,3D Artist,Nevada,Meta,98,217,False
+Bryan Heath,Product Manager,Massachusetts,Meta,89,293,False
+Tracy Williams,Data Scientist,Wyoming,Meta,216,261,False
+Alexandra Ford,Program Manager,Alaska,Meta,165,291,False
+John Robertson,Software Engineer ,Connecticut,Meta,216,253,False
+Michael Reed,Machine Learning Engineer,South Carolina,Meta,135,178,False
+Scott Lloyd,3D Artist,Delaware,Meta,187,305,False
+Timothy Nelson,Software Engineer ,Georgia,Meta,2,341,True
+Jacqueline Howard,3D Artist,Idaho,Meta,158,280,False
+Brian Barrett,Program Manager,Wisconsin,Meta,49,232,False
+Kathy Davidson,Product Manager,Indiana,Meta,46,54,True
+Elizabeth Williams,Data Analyst,Massachusetts,Meta,35,64,True
+Philip Robles,Data Scientist ,Illinois,Meta,1,208,True
+Rebecca Holland,Machine Learning Engineer,Nebraska,Meta,20,280,False
+Courtney Jones,Project Manager ,Washington,Meta,72,142,False
+Tina Robinson,3D Artist,Oklahoma,Meta,97,341,False
+Daniel Wright,3D Artist,Virginia,Meta,39,248,False
+Walter Brown,Project Manager ,Rhode Island,Meta,158,161,False
+Robert Aguilar,Product Manager,Arizona,Meta,203,294,False
+Sean Thomas,Product Manager,Connecticut,Meta,145,322,False
+Rick Gardner,Associate General Counsel Data Protection,Florida,Meta,122,229,False
+Ashley Jenkins,Data Scientist ,Hawaii,Meta,111,153,False
+Cristina Arroyo,Project Manager ,Illinois,Meta,71,79,False
+Dorothy Castaneda,Project Manager ,Oregon,Meta,160,185,False
+Brian Morris,Program Manager,Washington,Meta,163,281,False
+Adam Velasquez,Data Scientist,Oregon,Meta,183,291,False
+Calvin Griffin,Data Analyst,Alabama,Meta,71,332,False
+Roy Shepherd,Data Engineer,Iowa,Meta,192,308,False
+Antonio Martinez,Data Engineer,Mississippi,Meta,102,196,False
+Daniel Harris,Data Scientist ,Maine,Meta,25,199,True
+Sarah Romero,Program Manager,Texas,Meta,21,43,True
+Wesley Jones,Data Analyst,Washington,Meta,129,326,False
+Monique Murphy,Project Manager ,Pennsylvania,Meta,23,178,True
+Antonio Wilson,Data Scientist ,Pennsylvania,Meta,232,333,False
+Jennifer Rose,Product Manager,Nevada,Meta,26,138,True
+Crystal Wells,Product Manager,Oregon,Meta,229,293,False
+Stephanie Melton,Data Engineer,New Jersey,Meta,46,84,False
+Theresa Brown MD,Software Engineer ,Louisiana,Meta,186,238,False
+Kristen Curry,Program Manager,Vermont,Meta,53,341,False
+David Cooper,Software Engineer ,Delaware,Meta,198,331,False
+John Mcguire,Project Manager ,Washington,Meta,162,354,False
+Justin Molina,Data Analyst,Michigan,Meta,182,235,False
+Steven Calhoun,Software Engineer ,Colorado,Meta,182,322,False
+Jennifer Morris,Software Engineer ,Maryland,Meta,81,199,False
+Christopher Robinson,Data Scientist ,Maine,Meta,97,130,False
+Tammy Barajas,Data Engineer,West Virginia,Meta,52,235,False
+Peter Jenkins,Machine Learning Engineer,Kansas,Meta,119,327,False
+Amy Cox,Product Manager,North Dakota,Meta,55,160,False
+Tara Cook,Project Manager ,Massachusetts,Meta,13,354,False
+Nathan Ashley,3D Artist,California,Meta,11,92,True
+Tara Jones,Data Engineer,Arkansas,Meta,79,333,False
+Andre Roberts,Data Engineer,North Dakota,Meta,85,114,False
+Jason Young,Product Manager,Alabama,Meta,13,76,True
+Christopher Jones,Data Scientist ,North Dakota,Meta,136,206,False
+Ashley Smith,Data Analyst,South Carolina,Meta,83,147,False
+Maria Murphy,Project Manager ,Missouri,Meta,235,279,False
+Andre Malone,Data Scientist,Minnesota,Meta,70,186,False
+Garrett Ramirez,Program Manager,Washington,Meta,204,292,False
+Christopher Clay,Software Engineer ,Alabama,Meta,126,288,False
+Mark Vazquez,Product Manager,Massachusetts,Meta,15,202,True
+Lee Craig,Software Engineer ,Ohio,Meta,103,337,False
+Stephen Long,3D Artist,California,Meta,34,314,False
+Amy Ross,Program Manager,Idaho,Meta,4,301,True
+Courtney Anthony,3D Artist,Massachusetts,Meta,159,262,False
+Cameron Armstrong,Software Engineer ,Texas,Meta,151,332,False
+Diane King,Data Analyst,Tennessee,Meta,103,199,False
+Johnny Chung,Data Scientist,Utah,Meta,92,174,False
+Paul Good,Data Scientist ,Wisconsin,Meta,226,344,False
+Keith Stephens,Software Engineer ,Ohio,Meta,165,273,False
+Shelly Howard,Machine Learning Engineer,Missouri,Meta,7,122,True
+Joshua Archer,Data Engineer,Alabama,Meta,167,326,False
+Angela Owens,Associate General Counsel Data Protection,Delaware,Meta,63,97,False
+Monica Stanley,Software Engineer ,Massachusetts,Meta,72,114,False
+Joshua Moore,Data Engineer,New Mexico,Meta,149,262,False
+Karen Baird,3D Artist,Delaware,Meta,91,269,False
+Louis Rodriguez,Data Scientist,Pennsylvania,Meta,23,25,True
+Justin Curtis,3D Artist,New Jersey,Meta,192,297,False
+Edward Hoffman,Data Engineer,Oklahoma,Meta,129,221,False
+Traci Drake,Program Manager,Tennessee,Meta,104,109,False
+Lori Leonard,Data Engineer,Georgia,Meta,201,210,False
+Jeffrey Williams,Associate General Counsel Data Protection,South Dakota,Meta,95,106,False
+Angelica Hernandez,Program Manager,West Virginia,Meta,99,186,False
+Miss Doris Newman,Data Analyst,Alaska,Meta,236,297,False
+Richard Barton,Machine Learning Engineer,South Carolina,Meta,105,235,False
+Matthew Fletcher,Associate General Counsel Data Protection,Mississippi,Meta,151,233,False
+Terry Aguilar,Data Scientist ,North Carolina,Meta,222,269,False
+Emily Brown,Data Scientist,North Dakota,Meta,30,152,True
+Marcus Pope,Project Manager ,Montana,Meta,96,176,False
+Robert Soto,Data Scientist,Washington,Meta,120,247,False
+Thomas Fuller,Data Scientist ,District of Columbia,Meta,114,241,False
+Virginia Cook,Data Analyst,Alaska,Meta,130,205,False
+Kevin Richards,Software Engineer ,Missouri,Meta,2,182,True
+Shannon Ryan,Data Scientist ,Wyoming,Meta,221,334,False
+Alicia Barry,Project Manager ,Ohio,Meta,65,268,False
+Olivia Hogan,Product Manager,New Jersey,Meta,230,337,False
+Nichole Johnson,Project Manager ,Michigan,Meta,191,267,False
+Charles Mitchell,3D Artist,Iowa,Meta,49,85,False
+Lisa Weaver,Product Manager,Iowa,Meta,50,320,False
+Jason Howell,Machine Learning Engineer,Oregon,Meta,74,145,False
+James Smith,Data Analyst,Arizona,Meta,129,303,False
+Justin Vasquez,Data Scientist ,Connecticut,Meta,25,105,True
+Krista Mejia,Associate General Counsel Data Protection,Louisiana,Meta,166,310,False
+Mrs. Ashley Smith,Data Engineer,Mississippi,Meta,181,249,False
+Kevin Perkins,3D Artist,Pennsylvania,Meta,93,195,False
+Stacey Cruz,Data Engineer,Colorado,Meta,8,196,True
+Brandon Carpenter,Data Analyst,Georgia,Meta,10,172,True
+George Freeman,Product Manager,Arkansas,Meta,64,317,False
+Billy Harding,Data Analyst,West Virginia,Meta,69,190,False
+Jacqueline Allen,3D Artist,Texas,Meta,142,336,False
+Jeremy Saunders,Associate General Counsel Data Protection,Vermont,Meta,220,319,False
+John Kim,Project Manager ,Iowa,Meta,129,163,False
+Christine Fischer,Data Scientist ,Ohio,Meta,199,215,False
+Bruce Davis,Data Analyst,District of Columbia,Meta,166,183,False
+Karen Macias,Program Manager,Vermont,Meta,167,294,False
+Susan Smith,Machine Learning Engineer,Washington,Meta,83,97,False
+Karen Nguyen,Product Manager,Nebraska,Meta,166,356,False
+Jasmine Robinson,Data Engineer,Michigan,Meta,129,290,False
+Ashley Griffin,Data Scientist ,Utah,Meta,178,277,False
+Julia Smith,Product Manager,Missouri,Meta,160,345,False
+Justin Barnett,Data Analyst,South Carolina,Meta,187,311,False
+Carmen Hernandez,Data Engineer,Ohio,Meta,202,278,False
+Michael Aguirre,Data Scientist ,Alaska,Meta,29,338,False
+Stephen Davidson,Associate General Counsel Data Protection,Maine,Meta,187,346,False
+Kenneth Gallagher,Software Engineer ,South Dakota,Meta,223,236,False
+Crystal Jones,Software Engineer ,Iowa,Meta,234,272,False
+Joseph Atkinson,Data Analyst,Maine,Meta,92,179,False
+Rickey Lee,Product Manager,Ohio,Meta,238,297,False
+Sophia Walker,Data Scientist ,Illinois,Meta,119,293,False
+Elizabeth Ruiz,Software Engineer ,District of Columbia,Meta,63,358,False
+Jessica Bowen,Data Analyst,Kentucky,Meta,72,97,False
+Robert Peterson,Program Manager,Colorado,Meta,186,218,False
+Amanda Price,Product Manager,Massachusetts,Meta,126,284,False
+Nathan Grant,3D Artist,Wyoming,Meta,181,297,False
+Howard Porter,Data Analyst,Massachusetts,Meta,92,261,False
+Aaron Bailey,Data Analyst,Pennsylvania,Meta,207,323,False
+Matthew Gomez,Data Scientist ,South Carolina,Meta,174,259,False
+John Fields,Product Manager,North Dakota,Meta,26,99,True
+Christopher Perry,Data Scientist ,New Jersey,Meta,203,337,False
+Alicia Black,Data Scientist,Connecticut,Meta,3,33,True
+Gina Burnett,Data Engineer,Maine,Meta,78,284,False
+Ashley Barker,3D Artist,Idaho,Meta,92,303,False
+Debra Bradley,Data Analyst,Nebraska,Meta,218,350,False
+Holly Morgan,3D Artist,Nevada,Meta,140,164,False
+Cole Edwards,Associate General Counsel Data Protection,Missouri,Meta,151,267,False
+Kent King,Data Scientist,Iowa,Meta,135,267,False
+Jeffrey Cooper,Data Analyst,Ohio,Meta,208,261,False
+Natalie Myers,3D Artist,Michigan,Meta,159,262,False
+Tanner Thomas,Project Manager ,Maine,Meta,113,351,False
+Christopher Williams,Product Manager,Maryland,Meta,22,177,True
+Michael Harrell,Data Scientist,New Mexico,Meta,134,297,False
+Patrick Bowers,Data Analyst,Hawaii,Meta,201,283,False
+Justin Nichols,Software Engineer ,Montana,Meta,239,287,False
+Jessica Guerra,Program Manager,Iowa,Meta,237,338,False
+Larry Tucker,Software Engineer ,Alaska,Meta,180,274,False
+Stephen Butler,Project Manager ,Texas,Meta,25,131,True
+James Chambers DVM,Data Scientist,Arkansas,Meta,169,325,False
+Barbara Smith,3D Artist,Minnesota,Meta,169,344,False
+Ronald Young,Software Engineer ,Iowa,Meta,152,308,False
+Christie Robinson,Data Engineer,Pennsylvania,Meta,213,302,False
+Clifford Grant,Data Engineer,Georgia,Meta,166,171,False
+Rebecca Gonzalez,Software Engineer ,Hawaii,Meta,24,220,True
+Luis Armstrong,Software Engineer ,Alabama,Meta,149,290,False
+Daniel Combs,Program Manager,Kentucky,Meta,185,214,False
+Dalton Carr,Project Manager ,New York,Meta,115,271,False
+Kevin Montoya,Data Scientist ,Arkansas,Meta,220,280,False
+Teresa Wilson,Data Scientist,West Virginia,Meta,198,277,False
+James Lynn,Program Manager,Alaska,Meta,101,153,False
+Thomas Singh,3D Artist,Wisconsin,Meta,93,189,False
+Heather Thompson,Software Engineer ,Tennessee,Meta,107,336,False
+Angela Clark,Product Manager,Massachusetts,Meta,58,97,False
+Timothy Vazquez,3D Artist,Pennsylvania,Meta,91,169,False
+Lauren Anderson,Software Engineer ,Alabama,Meta,62,168,False
+Tanya Waller,Program Manager,Michigan,Meta,239,296,False
+John Walker,Software Engineer ,North Dakota,Meta,134,338,False
+Ashley Schroeder,Machine Learning Engineer,Indiana,Meta,154,276,False
+Eric Koch,Product Manager,California,Meta,94,237,False
+Eddie Oliver,Data Analyst,Nebraska,Meta,93,134,False
+Caroline Mcpherson,Program Manager,Texas,Meta,64,327,False
+Colleen Hodge,Machine Learning Engineer,Washington,Meta,131,305,False
+Brian Graves,Data Scientist ,Indiana,Meta,76,256,False
+Brittany King,Data Scientist ,California,Meta,67,307,False
+Laura Brown,Machine Learning Engineer,Georgia,Meta,166,297,False
+Kristin Reyes,Data Scientist,South Dakota,Meta,26,218,True
+Craig Garcia,Associate General Counsel Data Protection,Arizona,Meta,129,181,False
+Ryan Turner,Data Scientist,New York,Meta,82,136,False
+Jennifer Richardson,Data Scientist ,Georgia,Meta,128,291,False
+Kevin Burgess,Machine Learning Engineer,Louisiana,Meta,79,257,False
+Emma Olson,Data Engineer,Minnesota,Meta,101,207,False
+Robin Ball,Program Manager,North Dakota,Meta,231,231,False
+Joshua Evans,Software Engineer ,Alaska,Meta,33,137,True
+Chase Hubbard,Software Engineer ,Vermont,Meta,91,205,False
+Gabriel Cox,Software Engineer ,Kansas,Meta,26,209,True
+Marisa May,Data Scientist,South Dakota,Meta,70,75,False
+Christina Cooper,Project Manager ,Maine,Meta,15,230,True
+Sandra Osborne,Software Engineer ,West Virginia,Meta,3,94,True
+Frank Tyler,Machine Learning Engineer,New York,Meta,65,313,False
+Steven Bell,Machine Learning Engineer,New Mexico,Meta,228,315,False
+James Barrett,3D Artist,Oregon,Meta,187,211,False
+Jennifer Moore,Project Manager ,Vermont,Meta,116,289,False
+Lori Edwards,Product Manager,Nebraska,Meta,15,348,False
+William Fletcher,Product Manager,New Mexico,Meta,215,247,False
+Dr. Jacob Farmer,Product Manager,District of Columbia,Meta,92,333,False
+Jamie Harris MD,Data Analyst,Utah,Meta,106,272,False
+Kelly Lawrence,Software Engineer ,Wisconsin,Meta,212,313,False
+Gary Logan,Product Manager,Delaware,Meta,211,227,False
+Shaun Hall,Associate General Counsel Data Protection,Mississippi,Meta,55,279,False
+Brian Eaton,Software Engineer ,Kentucky,Meta,53,298,False
+Kathy Mcintosh,Data Scientist ,New Jersey,Meta,202,207,False
+William Nguyen,Associate General Counsel Data Protection,New Jersey,Meta,111,177,False
+Jennifer Ayala,Software Engineer ,Hawaii,Meta,209,318,False
+Jody Hoffman,Data Analyst,Idaho,Meta,179,291,False
+Cindy Valenzuela,Associate General Counsel Data Protection,Florida,Meta,3,92,True
+Carlos Duke,Associate General Counsel Data Protection,Pennsylvania,Meta,33,250,False
+Edgar Turner,Software Engineer ,Mississippi,Meta,86,250,False
+Timothy Wiley,Machine Learning Engineer,Mississippi,Meta,67,316,False
+David Barker,Product Manager,Mississippi,Meta,74,85,False
+Christopher Hart,Product Manager,Oregon,Meta,164,334,False
+Laura Tyler MD,3D Artist,North Carolina,Meta,168,220,False
+Jonathan Mcconnell,Product Manager,Massachusetts,Meta,116,337,False
+Christopher Melton,Project Manager ,Georgia,Meta,213,348,False
+Cory Brown,Product Manager,Illinois,Meta,181,270,False
+Richard Irwin,3D Artist,Washington,Meta,212,356,False
+Joe Cortez,Data Analyst,Vermont,Meta,157,330,False
+Donna West,Product Manager,Oklahoma,Meta,83,207,False
+Stacy Mcconnell,Data Scientist ,North Dakota,Meta,197,264,False
+Margaret Perez,Data Analyst,Utah,Meta,190,295,False
+Kenneth Alexander,Data Scientist ,Massachusetts,Meta,84,286,False
+Mrs. Teresa Welch,Project Manager ,Tennessee,Meta,64,332,False
+Erin Bush,Product Manager,Tennessee,Meta,106,268,False
+Jessica Wilson,Software Engineer ,Alabama,Meta,25,236,False
+Crystal Carrillo,3D Artist,Utah,Meta,228,250,False
+Ryan Powers,Associate General Counsel Data Protection,Nebraska,Meta,218,305,False
+Charles Lewis,3D Artist,Nebraska,Meta,231,308,False
+Barbara Melendez,3D Artist,Michigan,Meta,167,188,False
+Brandon Sullivan,3D Artist,Iowa,Meta,144,327,False
+Antonio Reyes,Machine Learning Engineer,Indiana,Meta,197,208,False
+Whitney Newman,Software Engineer ,Virginia,Meta,236,272,False
+Sharon Page,Product Manager,West Virginia,Meta,186,213,False
+Steven Miller,Data Engineer,West Virginia,Meta,208,337,False
+Donald Parker,Software Engineer ,Washington,Meta,141,270,False
+Katherine Colon,Data Analyst,Oregon,Meta,137,354,False
+Barry Davis,3D Artist,New Hampshire,Meta,192,294,False
+Cindy Hahn,3D Artist,California,Meta,144,229,False
+Grace Hernandez,Software Engineer ,Connecticut,Meta,209,332,False
+Mrs. Patricia Gates,Program Manager,Oklahoma,Meta,85,240,False
+Samantha Perez,Data Scientist,Illinois,Meta,222,357,False
+Sarah George,3D Artist,Louisiana,Meta,15,346,False
+Jasmine Cook,Program Manager,Missouri,Meta,13,268,True
+James Hernandez,Machine Learning Engineer,Tennessee,Meta,62,338,False
+Latasha Hall,Data Analyst,Texas,Meta,166,228,False
+Juan Taylor,Data Scientist ,Colorado,Meta,195,356,False
+Charles Cochran,Product Manager,Wisconsin,Meta,58,258,False
+Charles Miles,Product Manager,Florida,Meta,6,132,True
+Caleb Tucker,Data Scientist ,Kansas,Meta,128,128,False
+Samuel Barnes,Associate General Counsel Data Protection,North Dakota,Meta,3,236,True
+Barbara Stevens,Program Manager,Nebraska,Meta,133,197,False
+Scott Saunders,Associate General Counsel Data Protection,Idaho,Meta,186,221,False
+Jack Crawford,Data Engineer,South Carolina,Meta,159,291,False
+Brenda Perez,3D Artist,Tennessee,Meta,125,200,False
+Tiffany Reyes,Product Manager,Louisiana,Meta,237,317,False
+Jordan Aguirre,Program Manager,Connecticut,Meta,15,17,True
+Edward Mahoney,Data Scientist,Nebraska,Meta,181,235,False
+Scott Gibbs,Machine Learning Engineer,Tennessee,Meta,144,263,False
+Candace Garcia,Data Engineer,New Jersey,Meta,129,188,False
+Donna Ponce,Data Engineer,Utah,Meta,191,192,False
+Christian Greene,Project Manager ,Massachusetts,Meta,220,287,False
+Allison Rivers,Product Manager,Washington,Meta,112,236,False
+Casey Fitzgerald,Data Analyst,Massachusetts,Meta,82,333,False
+Jeanette Ward,Software Engineer ,Maryland,Meta,170,253,False
+Gregory Ford,Product Manager,Utah,Meta,45,158,False
+Raymond Palmer,Data Scientist,Missouri,Meta,226,275,False
+Michael Smith,Product Manager,West Virginia,Meta,48,107,False
+Erin Wagner,Project Manager ,Oregon,Meta,94,176,False
+Daniel Scott,Program Manager,New Jersey,Meta,81,323,False
+Sean Brown,Software Engineer ,Mississippi,Meta,233,271,False
+Kevin Barker,3D Artist,South Dakota,Meta,139,226,False
+Marisa Baker,Machine Learning Engineer,South Carolina,Meta,66,175,False
+Danielle Dyer,3D Artist,South Dakota,Meta,96,169,False
+Angela Bell,Associate General Counsel Data Protection,Florida,Meta,96,325,False
+Ryan Sweeney,3D Artist,North Dakota,Meta,211,279,False
+Glen Gonzalez,Project Manager ,Nebraska,Meta,194,231,False
+Christy Sweeney,Associate General Counsel Data Protection,Massachusetts,Meta,58,283,False
+Patricia Gonzalez,Software Engineer ,Idaho,Meta,88,329,False
+Casey Williams,Software Engineer ,West Virginia,Meta,45,230,False
+Sarah Anderson,Data Scientist,Arkansas,Meta,126,295,False
+Teresa Mendez,Program Manager,Rhode Island,Meta,161,188,False
+Edward Gibbs,Product Manager,Ohio,Meta,56,119,False
+Kristina Garcia,Data Engineer,California,Meta,209,265,False
+John Summers,Data Scientist ,North Dakota,Meta,155,345,False
+Lori Patterson,Machine Learning Engineer,District of Columbia,Meta,54,294,False
+Julie Ryan,Program Manager,West Virginia,Meta,167,315,False
+Erin Arnold,Data Engineer,North Dakota,Meta,187,230,False
+Cathy Henderson,Data Scientist ,New Mexico,Meta,106,125,False
+Anne Johnson,Data Analyst,Nebraska,Meta,111,340,False
+Brian Martinez,Program Manager,Arizona,Meta,174,249,False
+Bruce Lara,Software Engineer ,Texas,Meta,38,200,False
+Hannah Smith,Program Manager,Louisiana,Meta,216,343,False
+Brian Porter,Machine Learning Engineer,Arkansas,Meta,59,188,False
+Jon Jones,Data Engineer,Virginia,Meta,41,227,False
+Jeffrey Reynolds DDS,Project Manager ,Virginia,Meta,136,160,False
+Madison Medina,Machine Learning Engineer,Missouri,Meta,153,272,False
+Melissa Ward,3D Artist,Michigan,Meta,212,306,False
+Anthony Greene Jr.,Data Scientist ,Virginia,Meta,238,265,False
+Stephanie Ellis,Data Analyst,Wisconsin,Meta,161,303,False
+Laura Vaughn MD,Data Scientist ,Washington,Meta,154,295,False
+Michael Humphrey,Machine Learning Engineer,New Hampshire,Meta,79,243,False
+Kendra Cooper,Program Manager,Maine,Meta,25,81,True
+Dustin Smith,Machine Learning Engineer,Utah,Meta,222,253,False
+Whitney Aguirre,Data Engineer,Florida,Meta,157,233,False
+Alison Galloway,Data Engineer,Michigan,Meta,131,191,False
+Ralph Fuentes,Product Manager,South Dakota,Meta,60,228,False
+Kenneth Haas,Program Manager,Washington,Meta,144,181,False
+Leslie Humphrey,Data Scientist ,New York,Meta,136,346,False
+Joshua Jimenez,Data Scientist ,Georgia,Meta,167,342,False
+Melissa Taylor,Data Scientist,Virginia,Meta,189,309,False
+Shelby Mason,Software Engineer ,Texas,Meta,101,183,False
+Nicole Joyce,Machine Learning Engineer,New Mexico,Meta,9,350,True
+Melissa Ball,Program Manager,Washington,Meta,197,236,False
+Briana Smith,Data Engineer,Oregon,Meta,234,297,False
+Shelby Murphy,Program Manager,Idaho,Meta,183,196,False
+Brandy Fisher,Data Engineer,Arizona,Meta,62,230,False
+Jose White,Program Manager,West Virginia,Meta,74,276,False
+Keith Moore,Program Manager,Mississippi,Meta,197,221,False
+Craig Williams,Data Scientist ,Pennsylvania,Meta,26,59,True
+Cassandra Hall,Data Scientist ,Oklahoma,Meta,19,353,False
+Jessica Miller,Machine Learning Engineer,Illinois,Meta,127,173,False
+Kimberly Ramirez,Data Scientist,Utah,Meta,207,214,False
+Douglas Watkins,Data Scientist ,Louisiana,Meta,228,305,False
+Gina Thompson,Product Manager,Mississippi,Meta,137,175,False
+Lori Little,Data Analyst,Wisconsin,Meta,50,64,False
+David Downs,Data Engineer,Rhode Island,Meta,237,254,False
+Ashley Francis,Data Analyst,South Carolina,Meta,46,231,False
+Diamond Horton,Software Engineer ,Colorado,Meta,109,228,False
+Walter Clark,Project Manager ,South Carolina,Meta,78,232,False
+Stephanie Riley,Project Manager ,Virginia,Meta,32,145,True
+Taylor Lucas,Data Scientist,Montana,Meta,187,314,False
+Lisa Wood,Software Engineer ,New Mexico,Meta,24,317,False
+Michelle Perkins,Machine Learning Engineer,Georgia,Meta,43,264,False
+Travis York,3D Artist,Maryland,Meta,110,199,False
+Scott Pierce,Software Engineer ,Idaho,Meta,210,256,False
+Joshua Mendoza,3D Artist,South Dakota,Meta,110,256,False
+Devin Hunter,Software Engineer ,Idaho,Meta,25,192,True
+Heather Walters,Data Engineer,Pennsylvania,Meta,204,243,False
+Rebecca Conway,Project Manager ,Wyoming,Meta,135,241,False
+Angelica Robbins,3D Artist,District of Columbia,Meta,69,181,False
+Pamela Green,3D Artist,California,Meta,40,342,False
+Lauren Brown,3D Artist,Washington,Meta,22,345,False
+Richard Mann,Machine Learning Engineer,South Dakota,Meta,74,302,False
+Joseph Porter,Data Scientist ,North Dakota,Meta,25,224,True
+Jill Blake,Project Manager ,Delaware,Meta,33,301,False
+Kathryn Payne,Program Manager,Connecticut,Meta,87,222,False
+Casey Pearson,Associate General Counsel Data Protection,Idaho,Meta,3,231,True
+Bruce Nelson,Project Manager ,New Mexico,Meta,225,245,False
+Hannah Taylor,Data Scientist,Minnesota,Meta,132,217,False
+Heather Edwards,Data Scientist ,Idaho,Meta,95,266,False
+Harry Johnson,Machine Learning Engineer,Maryland,Meta,181,276,False
+Brittney Avery,3D Artist,Iowa,Meta,26,129,True
+Justin Lambert,Product Manager,Connecticut,Meta,218,285,False
+Dylan Foster,Machine Learning Engineer,Maryland,Meta,176,324,False
+Mark Cox,Software Engineer ,New York,Meta,128,327,False
+Bailey Swanson,Associate General Counsel Data Protection,Indiana,Meta,208,216,False
+Ruben Ross,Data Analyst,Arkansas,Meta,152,266,False
+Jacob Bowman,Product Manager,Michigan,Meta,189,245,False
+Bradley Gamble,Product Manager,New Hampshire,Meta,138,184,False
+John Reeves,Machine Learning Engineer,Delaware,Meta,189,254,False
+Peter Rhodes,Machine Learning Engineer,Tennessee,Meta,121,238,False
+Christopher Kennedy,Product Manager,Minnesota,Meta,191,212,False
+Thomas Olson,Program Manager,South Dakota,Meta,14,297,True
+Danielle Klein,Data Engineer,Oregon,Meta,154,273,False
+Nicholas Green,Data Analyst,New Mexico,Meta,146,306,False
+Kimberly Torres,3D Artist,Nevada,Meta,222,326,False
+Jamie Goodman,Data Analyst,South Dakota,Meta,15,67,True
+James Rogers,3D Artist,New Jersey,Meta,154,342,False
+Terri Hebert,Data Scientist ,Alaska,Meta,84,330,False
+Edward Collins,Data Scientist,Tennessee,Meta,197,221,False
+Jonathan Gardner,Product Manager,Kentucky,Meta,238,295,False
+Nicholas Stephens,Data Scientist,Minnesota,Meta,192,332,False
+Kyle Ferguson,Data Analyst,Washington,Meta,19,45,True
+Angela Shepard,3D Artist,Pennsylvania,Meta,206,231,False
+Joshua Perez,Program Manager,Tennessee,Meta,1,15,True
+Monica Smith,Machine Learning Engineer,Arizona,Meta,203,222,False
+Jessica Moore,Data Engineer,Indiana,Meta,138,209,False
+Eric Smith,Project Manager ,Iowa,Meta,182,248,False
+Stephanie Rose,3D Artist,Oregon,Meta,28,286,False
+Jonathan Weaver,Data Analyst,Florida,Meta,200,325,False
+Joel Kelley,Data Scientist ,South Dakota,Meta,20,162,True
+Anthony Reyes,Project Manager ,Iowa,Meta,14,139,True
+Terri Robinson,Product Manager,Idaho,Meta,83,144,False
+David Martinez,Machine Learning Engineer,Nevada,Meta,210,349,False
+Elizabeth Miller,Data Engineer,South Carolina,Meta,157,329,False
+Chad Hernandez,Data Scientist ,Colorado,Meta,131,134,False
+Mark Holloway,Software Engineer ,Pennsylvania,Meta,11,42,True
+Latasha Johnson,Data Engineer,Rhode Island,Meta,109,200,False
+Phillip Lucas,Machine Learning Engineer,Louisiana,Meta,225,327,False
+Veronica Simmons,3D Artist,Kansas,Meta,115,144,False
+Anthony Byrd,Project Manager ,North Carolina,Meta,56,341,False
+Debbie Riley,Project Manager ,Connecticut,Meta,34,75,True
+Ashley Mccarthy,Data Scientist ,Utah,Meta,108,173,False
+John Vargas,Project Manager ,Arizona,Meta,106,283,False
+Melanie White,Machine Learning Engineer,District of Columbia,Meta,26,207,True
+Mr. Christopher Carter,Machine Learning Engineer,Wisconsin,Meta,238,286,False
+Summer Lewis,Machine Learning Engineer,Iowa,Meta,1,295,True
+James Crane,Associate General Counsel Data Protection,Delaware,Meta,8,285,True
+Carl Ponce,Project Manager ,Utah,Meta,6,21,True
+Jamie Wyatt,Data Scientist ,Mississippi,Meta,120,325,False
+Cameron Chen,Project Manager ,Alaska,Meta,81,323,False
+Mr. Andrew Oconnor,Data Engineer,Tennessee,Meta,159,259,False
+Daniel Walter,Data Scientist,Delaware,Meta,161,233,False
+Tyler Chapman,Data Engineer,Alabama,Meta,173,341,False
+Patricia Martin,Data Engineer,Rhode Island,Meta,68,220,False
+Nicholas Murray,Machine Learning Engineer,South Dakota,Meta,79,255,False
+Jason King,3D Artist,Virginia,Meta,164,279,False
+Andrea Gamble,Program Manager,Tennessee,Meta,181,212,False
+Kevin Pearson,Data Engineer,Nebraska,Meta,2,20,True
+Deborah Ayers,Associate General Counsel Data Protection,Iowa,Meta,195,210,False
+Elizabeth Chavez,Software Engineer ,Missouri,Meta,103,274,False
+Jose Newton,Machine Learning Engineer,Montana,Meta,168,188,False
+John Shelton,Project Manager ,Hawaii,Meta,130,258,False
+Laura Fisher,3D Artist,Rhode Island,Meta,174,331,False
+Melissa Miller,3D Artist,Washington,Meta,109,229,False
+Ellen Morrow,Data Analyst,Ohio,Meta,155,277,False
+Mr. Luis Jacobs,Associate General Counsel Data Protection,Wisconsin,Meta,136,316,False
+Luis Mcintyre,Software Engineer ,Wyoming,Meta,125,256,False
+Cindy Brown,Product Manager,Washington,Meta,22,105,True
+Lonnie Chen,Machine Learning Engineer,California,Meta,80,344,False
+Joshua Yoder,Data Scientist ,Maine,Meta,201,244,False
+John Allen,Data Engineer,Louisiana,Meta,236,359,False
+Jaime Turner,Data Analyst,South Carolina,Meta,96,172,False
+Michael Johnson MD,Data Engineer,South Carolina,Meta,73,259,False
+Nicholas Malone,Program Manager,North Dakota,Meta,69,127,False
+Adam Crawford,Product Manager,South Dakota,Meta,210,262,False
+Ricky Smith,Data Scientist,Delaware,Meta,38,85,True
+Jeremy Davidson,Product Manager,Missouri,Meta,180,203,False
+James Ruiz,Associate General Counsel Data Protection,South Dakota,Meta,199,199,False
+Edward Burgess,Data Analyst,Rhode Island,Meta,152,302,False
+Brad Weaver,Project Manager ,Oklahoma,Meta,88,147,False
+Cathy Parker,Data Engineer,Pennsylvania,Meta,9,267,True
+Ashley Watts,Data Engineer,Minnesota,Meta,147,278,False
+Charles Hammond,Data Engineer,Delaware,Meta,230,344,False
+Lisa Shepherd,Program Manager,Virginia,Meta,143,222,False
+Christopher Brown MD,Product Manager,Washington,Meta,196,230,False
+Pamela White,Associate General Counsel Data Protection,Idaho,Meta,82,124,False
+Kenneth Crawford,Data Scientist ,South Dakota,Meta,163,241,False
+Olivia Hernandez,Machine Learning Engineer,Kansas,Meta,108,280,False
+Thomas Jones,Machine Learning Engineer,Mississippi,Meta,61,128,False
+Jacob Green,Project Manager ,Wyoming,Meta,171,321,False
+Tammy Rodriguez,3D Artist,Connecticut,Meta,170,278,False
+Carol Romero,Project Manager ,Indiana,Meta,104,225,False
+Lawrence Walsh,Software Engineer ,Colorado,Meta,170,337,False
+Cindy Romero,Program Manager,Indiana,Meta,209,276,False
+Katie Williams,Program Manager,Idaho,Meta,227,240,False
+Lynn King,Data Analyst,Indiana,Meta,26,64,True
+Carl Ball,3D Artist,New Hampshire,Meta,204,209,False
+Stephanie Lynch,3D Artist,Texas,Meta,118,210,False
+Michael Krueger,Product Manager,Texas,Meta,151,190,False
+Linda Green,Program Manager,New Hampshire,Meta,74,88,False
+Juan Cooper,Project Manager ,New Mexico,Meta,48,119,False
+Austin Duncan,Data Analyst,Vermont,Meta,130,291,False
+Cindy Figueroa,Data Engineer,Rhode Island,Meta,199,259,False
+Kathy Johnston,Data Analyst,Massachusetts,Meta,232,251,False
+Michael Brown,Data Analyst,North Carolina,Meta,16,138,True
+Leah Gilbert,Product Manager,Louisiana,Meta,98,337,False
+Ryan Sandoval,Product Manager,Wisconsin,Meta,104,202,False
+Charles Richmond,Product Manager,Ohio,Meta,54,92,False
+Courtney Smith,Product Manager,Massachusetts,Meta,50,259,False
+Kimberly Walker,Data Scientist,Maryland,Meta,187,327,False
+Zachary Ramirez,Product Manager,Maryland,Meta,76,257,False
+Jonathan Wilkinson,Program Manager,Nebraska,Meta,25,248,False
+Richard Chavez,Associate General Counsel Data Protection,Virginia,Meta,23,132,True
+Tony Salazar,Data Scientist ,Vermont,Meta,162,314,False
+Brandon Haynes,Associate General Counsel Data Protection,New Hampshire,Meta,159,287,False
+Tammy Rodriguez,Software Engineer ,Indiana,Meta,88,191,False
+Jessica Cunningham,Associate General Counsel Data Protection,Michigan,Meta,238,273,False
+Henry Stewart,Project Manager ,Alabama,Meta,174,182,False
+Karen Howard,Data Analyst,Michigan,Meta,170,312,False
+Preston Rose,Program Manager,North Carolina,Meta,236,340,False
+Cynthia Horton,Machine Learning Engineer,Iowa,Meta,63,221,False
+Natalie Padilla,Data Scientist ,New Jersey,Meta,166,263,False
+Carrie Bradford,3D Artist,Wisconsin,Meta,110,149,False
+Kathleen Gordon,Product Manager,Connecticut,Meta,139,206,False
+Joel Kelley,Program Manager,Kansas,Meta,55,132,False
+Jennifer Smith,Machine Learning Engineer,Kansas,Meta,123,296,False
+Chad Mclean,Program Manager,Pennsylvania,Meta,202,310,False
+Tammy Jackson,Associate General Counsel Data Protection,Kansas,Meta,124,356,False
+Jerry Barton,Data Scientist ,Maryland,Meta,152,233,False
+Mandy George,Associate General Counsel Data Protection,Massachusetts,Meta,65,146,False
+Caroline Richard,Associate General Counsel Data Protection,Arkansas,Meta,33,63,True
+Susan Ruiz,3D Artist,Indiana,Meta,167,289,False
+Deanna Boyer,Software Engineer ,Washington,Meta,97,312,False
+Eric Rosales,Data Scientist,Hawaii,Meta,122,225,False
+Kristen Garza,Data Engineer,Montana,Meta,129,294,False
+Bethany Mitchell,Data Analyst,New Jersey,Meta,195,256,False
+Jack Clark,Data Analyst,Missouri,Meta,19,192,True
+Kevin Lynch,3D Artist,New Mexico,Meta,83,324,False
+Mario Chavez,Data Scientist,Utah,Meta,54,350,False
+Veronica Carlson,Program Manager,Kentucky,Meta,230,269,False
+Matthew Townsend,Machine Learning Engineer,Hawaii,Meta,25,193,True
+Karen Villanueva,Program Manager,Washington,Meta,221,293,False
+Jerry Ferrell,Program Manager,Missouri,Meta,160,164,False
+Steven Collins,Data Scientist,South Carolina,Meta,30,193,True
+Collin Rogers,Data Analyst,Louisiana,Meta,164,212,False
+Andrea Garcia,3D Artist,California,Meta,159,206,False
+Jeremy Roberts,Data Engineer,Tennessee,Meta,1,336,True
+Lonnie Ward,Data Scientist ,Mississippi,Meta,136,316,False
+William Mcmillan,Machine Learning Engineer,New Hampshire,Meta,10,34,True
+Kimberly Hobbs,Associate General Counsel Data Protection,West Virginia,Meta,52,167,False
+Robert Anderson,Data Analyst,Missouri,Meta,76,344,False
+Jennifer Little,Project Manager ,Alaska,Meta,28,275,False
+Scott Wood,Machine Learning Engineer,Virginia,Meta,129,311,False
+Cynthia Armstrong,Software Engineer ,Alabama,Meta,65,209,False
+Christopher Spencer,Associate General Counsel Data Protection,Kentucky,Meta,91,278,False
+Christine Sharp,Associate General Counsel Data Protection,Pennsylvania,Meta,219,339,False
+Willie Beck,Project Manager ,Oregon,Meta,96,133,False
+Matthew Marks,Associate General Counsel Data Protection,Virginia,Meta,201,312,False
+Jennifer Lane,3D Artist,Montana,Meta,210,280,False
+Bridget Sawyer,3D Artist,Nevada,Meta,219,242,False
+Charles Martinez,Data Engineer,Pennsylvania,Meta,31,222,False
+Lori Price,Associate General Counsel Data Protection,Iowa,Meta,219,267,False
+Megan Johnson,Program Manager,Connecticut,Meta,45,61,True
+Rebecca Hall,Associate General Counsel Data Protection,Tennessee,Meta,188,278,False
+Dawn Carter,3D Artist,Missouri,Meta,120,292,False
+Aimee Gilmore,Machine Learning Engineer,Louisiana,Meta,118,331,False
+Sandy Flores,Software Engineer ,Ohio,Meta,49,66,False
+Shelley Miller,Data Scientist ,Texas,Meta,231,282,False
+Daniel Coleman,Software Engineer ,Virginia,Meta,49,311,False
+Jacqueline Williams,Data Scientist,New Mexico,Meta,205,312,False
+Luis Young,Data Analyst,North Dakota,Meta,195,358,False
+Brian Curry,Associate General Counsel Data Protection,Idaho,Meta,173,173,False
+Thomas Davis,Program Manager,Nevada,Meta,118,221,False
+David Johnston,Software Engineer ,Missouri,Meta,124,290,False
+Scott Watson,Machine Learning Engineer,Virginia,Meta,147,264,False
+Amanda Yoder,Data Scientist,Kansas,Meta,210,246,False
+John Simpson,3D Artist,West Virginia,Meta,49,166,False
+Anita Jones PhD,Program Manager,New Mexico,Meta,101,232,False
+Timothy Ramirez,Data Analyst,Arizona,Meta,89,175,False
+Nicholas Peterson,Data Engineer,Michigan,Meta,22,134,True
+Sheri Black,Program Manager,Florida,Meta,34,321,False
+Sandra Mccormick,Data Scientist,Alaska,Meta,69,235,False
+David Evans,Data Analyst,Delaware,Meta,72,173,False
+James Thompson,Associate General Counsel Data Protection,Oklahoma,Meta,198,300,False
+Susan Cabrera,Machine Learning Engineer,Colorado,Meta,54,322,False
+Jacqueline Reeves,Associate General Counsel Data Protection,North Dakota,Meta,117,217,False
+Colin Berry,Data Analyst,Pennsylvania,Meta,225,271,False
+Terry Meyer,Program Manager,Nebraska,Meta,169,295,False
+Raymond Gonzalez,Associate General Counsel Data Protection,Nebraska,Meta,18,239,True
+Katrina Michael,Machine Learning Engineer,Illinois,Meta,207,268,False
+Brandon Smith,Machine Learning Engineer,Idaho,Meta,36,350,False
+Timothy Martin,Data Scientist ,New Mexico,Meta,228,258,False
+Kathryn Jenkins,Machine Learning Engineer,Arkansas,Meta,177,207,False
+Scott Robinson,Data Scientist ,Montana,Meta,97,321,False
+Joshua Wilson,Program Manager,Pennsylvania,Meta,21,139,True
+Daniel Collins,Data Analyst,Michigan,Meta,108,215,False
+Edward Ewing,Project Manager ,Pennsylvania,Meta,75,110,False
+Monique Carrillo,Program Manager,New Jersey,Meta,165,238,False
+Colin Williams,Machine Learning Engineer,Louisiana,Meta,167,351,False
+Michael Hudson,Associate General Counsel Data Protection,Minnesota,Meta,72,267,False
+Lydia Evans,Data Analyst,Ohio,Meta,50,111,False
+Sherry Stephens,3D Artist,California,Meta,83,309,False
+Jose Moran,Product Manager,Florida,Meta,212,259,False
+Jose Robertson,Associate General Counsel Data Protection,South Carolina,Meta,1,66,True
+Roger Hess,Machine Learning Engineer,Minnesota,Meta,128,149,False
+David Wright,Machine Learning Engineer,South Dakota,Meta,150,189,False
+Patricia Lane,3D Artist,Nebraska,Meta,77,198,False
+Jordan Blake,Machine Learning Engineer,Wisconsin,Meta,61,229,False
+Rebecca Wong,Program Manager,Alabama,Meta,231,353,False
+Zachary Swanson,Software Engineer ,Rhode Island,Meta,78,161,False
+Kevin Church,Software Engineer ,Louisiana,Meta,60,126,False
+Melanie Adams,Data Analyst,Nebraska,Meta,79,328,False
+Tyler Goodwin,Project Manager ,Missouri,Meta,235,285,False
+Ronald Thomas,Data Engineer,Colorado,Meta,23,148,True
+Michael Brown,Product Manager,Oregon,Meta,142,251,False
+William Tran,Software Engineer ,Michigan,Meta,16,318,False
+Jonathan Bailey,Data Analyst,Wisconsin,Meta,167,274,False
+Donald Carpenter,Data Analyst,Kentucky,Meta,90,266,False
+Angela Rosales,3D Artist,Illinois,Meta,144,345,False
+Erika Jones,Data Scientist ,Hawaii,Meta,30,79,True
+Angelica Hernandez,Data Analyst,Georgia,Meta,89,153,False
+Johnathan Howe,Associate General Counsel Data Protection,Arizona,Meta,142,253,False
+Jacob Escobar,Software Engineer ,Alabama,Meta,53,343,False
+Hannah Henry MD,Data Scientist,Wyoming,Meta,132,324,False
+Raymond Brennan,Data Scientist,Massachusetts,Meta,81,173,False
+Darlene Davis,Data Scientist ,Rhode Island,Meta,186,307,False
+Robert Cook,Data Analyst,Tennessee,Meta,129,266,False
+Rodney Guerrero,Project Manager ,Tennessee,Meta,219,257,False
+Karen Stanley,Data Analyst,Louisiana,Meta,18,159,True
+Robin Higgins,Data Analyst,Colorado,Meta,43,158,False
+Brian Bell,Data Engineer,North Carolina,Meta,181,190,False
+Stephen Baldwin,Project Manager ,New Hampshire,Meta,167,192,False
+Richard Brown,Software Engineer ,South Carolina,Meta,58,267,False
+Angela Rodriguez,Software Engineer ,Kentucky,Meta,52,249,False
+Kelly Greene,Data Analyst,Vermont,Meta,54,165,False
+Abigail Davis,3D Artist,Missouri,Meta,90,338,False
+Thomas Martinez,Program Manager,Utah,Meta,158,248,False
+Emily Rowe,3D Artist,Arizona,Meta,191,339,False
+Andrew Sanchez,Data Scientist,Alaska,Meta,184,306,False
+Kylie Powell,Associate General Counsel Data Protection,West Virginia,Meta,130,320,False
+Haley Green,Associate General Counsel Data Protection,Wisconsin,Meta,183,193,False
+Gary Jackson,Data Scientist,Wyoming,Meta,112,230,False
+Michelle Howell,3D Artist,Idaho,Meta,160,357,False
+Timothy Little,Associate General Counsel Data Protection,Indiana,Meta,224,264,False
+Michael Stewart,Software Engineer ,Colorado,Meta,230,302,False
+Annette Herrera,Program Manager,Georgia,Meta,88,265,False
+Sandra Rogers,Data Engineer,Florida,Meta,184,306,False
+James Morgan,Product Manager,Maryland,Meta,89,220,False
+Norma Howard,Program Manager,New York,Meta,157,181,False
+John Sanchez,Data Engineer,New Jersey,Meta,21,236,True
+Andrea Lane,Project Manager ,New Mexico,Meta,10,149,True
+Deborah Reed,Machine Learning Engineer,California,Meta,22,109,True
+Joanna Thomas,Data Analyst,Virginia,Meta,223,336,False
+Caitlin Mitchell,Software Engineer ,Virginia,Meta,79,166,False
+Troy Shepherd,Data Scientist,Indiana,Meta,72,158,False
+Emily Jones,Product Manager,Hawaii,Meta,211,317,False
+Edward King,Data Scientist ,Wyoming,Meta,129,244,False
+Rebecca Powell,Program Manager,Alabama,Meta,43,333,False
+Michael Shelton,Project Manager ,Utah,Meta,235,301,False
+Thomas Collins,3D Artist,Georgia,Meta,58,293,False
+Holly Hunter,Data Analyst,South Carolina,Meta,101,235,False
+Taylor Moreno,Project Manager ,District of Columbia,Meta,71,201,False
+Jennifer Burton,Product Manager,Illinois,Meta,141,231,False
+Cheryl Pierce,Data Scientist ,Texas,Meta,133,261,False
+Michael Gentry,Machine Learning Engineer,California,Meta,163,171,False
+Vanessa Davila,Project Manager ,Wisconsin,Meta,152,341,False
+Alexandra Wilson,Product Manager,Alaska,Meta,156,299,False
+Chad Hooper,Machine Learning Engineer,Vermont,Meta,12,251,True
+William Castillo,Machine Learning Engineer,Georgia,Meta,116,329,False
+Paul Barber,Product Manager,Nebraska,Meta,54,144,False
+Jose Young,Data Analyst,Delaware,Meta,48,294,False
+Rodney Evans,Data Analyst,Louisiana,Meta,61,314,False
+Tanya Small,Project Manager ,Maine,Meta,70,314,False
+Ryan Alvarado,Software Engineer ,Ohio,Meta,167,250,False
+Patricia Weaver,Machine Learning Engineer,Ohio,Meta,75,122,False
+James King,Associate General Counsel Data Protection,Indiana,Meta,6,65,True
+Jenny Hughes,Machine Learning Engineer,Pennsylvania,Meta,140,175,False
+Kelly Schneider,Data Analyst,Florida,Meta,128,179,False
+Jeffery Byrd,Project Manager ,South Dakota,Meta,213,286,False
+Kylie Dixon,Program Manager,South Carolina,Meta,13,157,True
+Monica Luna,Program Manager,Hawaii,Meta,10,350,True
+Manuel Allen,Machine Learning Engineer,Louisiana,Meta,59,290,False
+Julia Fernandez,Project Manager ,Vermont,Meta,177,198,False
+Timothy Neal,Data Analyst,Virginia,Meta,48,355,False
+Brian Bishop,Data Scientist ,Hawaii,Meta,68,118,False
+Marissa Woods,3D Artist,Alaska,Meta,54,274,False
+Alexis Ayala,Product Manager,Wyoming,Meta,108,275,False
+John Davies,Program Manager,Idaho,Meta,81,211,False
+Jennifer Gibson,Project Manager ,Florida,Meta,31,265,False
+Crystal York,Data Analyst,Washington,Meta,115,200,False
+Crystal Nguyen,Associate General Counsel Data Protection,Alabama,Meta,233,280,False
+Stacey Phillips,Machine Learning Engineer,Hawaii,Meta,194,235,False
+Ernest Morton,Data Analyst,South Dakota,Meta,185,226,False
+Tammy Love,3D Artist,Virginia,Meta,208,252,False
+Tina Hamilton,Associate General Counsel Data Protection,Nevada,Meta,101,215,False
+Elizabeth Wheeler,Project Manager ,Idaho,Meta,215,248,False
+Steven Pennington,Project Manager ,Georgia,Meta,119,301,False
+Pamela Norton,Project Manager ,Washington,Meta,16,43,True
+Tracy Shields,Data Engineer,Iowa,Meta,38,171,False
+Bryan Mejia,Program Manager,Nevada,Meta,65,99,False
+Jerry Wood,Product Manager,Florida,Meta,112,154,False
+Savannah Walker,Program Manager,Illinois,Meta,88,192,False
+Ryan Rogers,Product Manager,South Carolina,Meta,219,261,False
+Katie Davis,Product Manager,New Hampshire,Meta,126,298,False
+Amy Simpson,Data Engineer,New York,Meta,181,269,False
+Joseph Cooper,Product Manager,Montana,Meta,186,266,False
+Colleen Mcknight,Data Analyst,Wyoming,Meta,3,67,True
+Andrew Fisher,Associate General Counsel Data Protection,Texas,Meta,74,175,False
+Richard Jordan,Data Scientist ,Florida,Meta,224,255,False
+David Reeves,Software Engineer ,Iowa,Meta,170,209,False
+Kevin Williams,Program Manager,North Dakota,Meta,15,17,True
+Charles Church,Associate General Counsel Data Protection,California,Meta,48,83,False
+John West,Data Analyst,New Mexico,Meta,116,294,False
+Dr. Scott Murphy Jr.,Program Manager,Tennessee,Meta,33,65,True
+Brittney Jones,Project Manager ,Rhode Island,Meta,170,212,False
+Misty Fernandez,Product Manager,Connecticut,Meta,224,341,False
+John Patton,3D Artist,Arkansas,Meta,118,201,False
+Gordon Blair,Data Scientist,Rhode Island,Meta,157,316,False
+Thomas Diaz,3D Artist,District of Columbia,Meta,220,231,False
+Thomas Summers,Program Manager,Illinois,Meta,230,337,False
+Julia Schmidt,Associate General Counsel Data Protection,Alaska,Meta,119,285,False
+Lisa Mcdonald,Program Manager,Missouri,Meta,216,232,False
+Bonnie Ward,Machine Learning Engineer,Wisconsin,Meta,185,322,False
+Dawn Hess,Machine Learning Engineer,Texas,Meta,110,302,False
+Katie Clark,Data Engineer,Louisiana,Meta,212,238,False
+Jill Boyd,Data Scientist,West Virginia,Meta,3,41,True
+Kayla Avila,Program Manager,Arkansas,Meta,214,300,False
+Anthony Cochran,Product Manager,Kansas,Meta,54,213,False
+Marilyn Zhang,Program Manager,Minnesota,Meta,159,195,False
+Leah Webster,Data Analyst,Nevada,Meta,121,136,False
+Gina Hicks,Program Manager,Maine,Meta,150,325,False
+Autumn Jordan,Project Manager ,Delaware,Meta,74,78,False
+Katie Robinson,Project Manager ,Kansas,Meta,67,110,False
+Julie Garrett,Data Analyst,Arizona,Meta,113,216,False
+Jennifer Lee,Data Scientist,Maryland,Meta,19,131,True
+Daniel Greene,Data Engineer,Vermont,Meta,60,345,False
+Julia Drake,Data Scientist ,Ohio,Meta,206,343,False
+Joseph Martinez,Data Scientist,Delaware,Meta,152,160,False
+Cynthia Werner,Program Manager,Maine,Meta,92,234,False
+Alexis Sullivan,Machine Learning Engineer,Connecticut,Meta,88,160,False
+Michael Jones,Associate General Counsel Data Protection,Utah,Meta,166,335,False
+Philip Walters,Project Manager ,Vermont,Meta,218,248,False
+Amy Lee,Data Analyst,Nebraska,Meta,168,290,False
+Connie Hensley,3D Artist,New York,Meta,134,167,False
+Angela Lee,3D Artist,Alaska,Meta,75,323,False
+Alyssa Juarez,Data Scientist ,Wisconsin,Meta,20,129,True
+Erin Mcneil DDS,Data Engineer,Indiana,Meta,222,326,False
+Jennifer Martinez,Data Analyst,Hawaii,Meta,218,358,False
+Anthony Norman,Data Scientist,Oklahoma,Meta,235,332,False
+Jasmine Rodriguez,Data Analyst,Oklahoma,Meta,65,193,False
+Christy Oneill,Machine Learning Engineer,Pennsylvania,Meta,114,343,False
+Dwayne Mcdowell,Software Engineer ,Tennessee,Meta,233,302,False
+Jennifer Harrison,3D Artist,Missouri,Meta,179,354,False
+Zachary Odom,Data Analyst,Nebraska,Meta,124,142,False
+Mary Levy,Machine Learning Engineer,Georgia,Meta,124,225,False
+Makayla Roman,Associate General Counsel Data Protection,Florida,Meta,69,264,False
+Caitlin Johns,Software Engineer ,California,Meta,195,302,False
+Jacqueline Cooper,Program Manager,New Hampshire,Meta,75,258,False
+Ricardo Lewis,Program Manager,Michigan,Meta,66,275,False
+Richard Brooks,Project Manager ,Wyoming,Meta,109,342,False
+Raymond Cain,3D Artist,Kentucky,Meta,51,227,False
+Chloe Dean,Data Engineer,Wyoming,Meta,119,123,False
+Kristen Wells,Data Scientist ,North Carolina,Meta,51,235,False
+Dennis Sutton,Data Scientist ,Indiana,Meta,207,345,False
+Faith Chen,Project Manager ,Louisiana,Meta,223,281,False
+Anna West,Program Manager,Michigan,Meta,184,184,False
+Justin Harris,Data Scientist ,Pennsylvania,Meta,39,124,True
+Deborah Flynn,Machine Learning Engineer,Illinois,Meta,224,273,False
+Brad Jimenez,Associate General Counsel Data Protection,Wisconsin,Meta,56,318,False
+Alexandra Cox,Product Manager,Michigan,Meta,161,190,False
+Christian Newman,Data Engineer,Florida,Meta,106,327,False
+Rachel Turner,Associate General Counsel Data Protection,Arizona,Meta,207,354,False
+Bobby Rodriguez,Project Manager ,Maryland,Meta,157,198,False
+Shannon Schultz,Product Manager,Mississippi,Meta,104,324,False
+Melissa Colon,Associate General Counsel Data Protection,Massachusetts,Meta,25,135,True
+William Medina,Data Scientist ,Arizona,Meta,218,356,False
+Tanya Ford,Product Manager,Wisconsin,Meta,198,341,False
+Mr. Gerald Arellano Jr.,Project Manager ,Idaho,Meta,228,274,False
+John Fisher,Product Manager,New Mexico,Meta,158,202,False
+Sara Dean PhD,3D Artist,District of Columbia,Meta,20,103,True
+Denise Smith,Product Manager,Utah,Meta,75,301,False
+Aaron Ramirez,Product Manager,Delaware,Meta,141,355,False
+Corey Sampson,Data Scientist ,Alabama,Meta,206,255,False
+Andrew Farmer,Data Engineer,Maryland,Meta,160,341,False
+Kelly Turner,Data Analyst,Oregon,Meta,216,308,False
+Steven Thompson,Data Scientist ,New York,Meta,79,186,False
+Robert Black,Associate General Counsel Data Protection,Idaho,Meta,3,328,True
+Patricia Fernandez,Data Analyst,Iowa,Meta,225,355,False
+Terry Erickson,Software Engineer ,Delaware,Meta,21,77,True
+Carlos Allison,Associate General Counsel Data Protection,Michigan,Meta,106,273,False
+Taylor Taylor,Machine Learning Engineer,Tennessee,Meta,38,64,True
+Ricardo Smith,Data Analyst,Kentucky,Meta,150,275,False
+Janice Lowery,Associate General Counsel Data Protection,New York,Meta,4,194,True
+Victor Fernandez,Program Manager,Connecticut,Meta,157,166,False
+Steven Evans,Project Manager ,Illinois,Meta,55,211,False
+Joseph Henson,Data Scientist ,Maine,Meta,7,131,True
+David Austin,Program Manager,Rhode Island,Meta,173,333,False
+Virginia Rose,Data Scientist,Vermont,Meta,158,227,False
+Nicole Jenkins,3D Artist,Oregon,Meta,141,231,False
+Debra Terrell,Data Scientist,Arkansas,Meta,16,346,False
+Sherry Garcia,Data Analyst,District of Columbia,Meta,221,237,False
+Michael Gonzalez,Data Scientist,Vermont,Meta,24,127,True
+Tammy Walker,Machine Learning Engineer,Mississippi,Meta,144,283,False
+Raven Jones,Data Engineer,Illinois,Meta,5,332,True
+Cheryl Wilson,Software Engineer ,Maryland,Meta,223,286,False
+Nancy Morris,Data Scientist ,Arizona,Meta,61,238,False
+Jared Avila,Data Analyst,Texas,Meta,79,346,False
+David Espinoza,Data Engineer,Rhode Island,Meta,129,304,False
+Jesse Harrington,Product Manager,Iowa,Meta,24,105,True
+Reginald Duffy,Data Engineer,Alabama,Meta,91,103,False
+Terry Ross,Software Engineer ,Pennsylvania,Meta,185,213,False
+Mrs. Christina Jimenez DVM,Project Manager ,Washington,Meta,116,151,False
+Jennifer Garcia,Associate General Counsel Data Protection,Washington,Meta,209,345,False
+Heather Mccann,Data Analyst,Idaho,Meta,145,279,False
+Rachel Kramer,Machine Learning Engineer,Oklahoma,Meta,22,56,True
+Rebecca Trujillo,Associate General Counsel Data Protection,Oklahoma,Meta,176,349,False
+Ebony Gray,Project Manager ,Hawaii,Meta,171,324,False
+Karen Espinoza,Data Scientist ,California,Meta,36,270,False
+Laura Lamb,Data Scientist ,District of Columbia,Meta,76,358,False
+Chad Holmes,Machine Learning Engineer,Connecticut,Meta,54,128,False
+Gregory Cook,Machine Learning Engineer,Maryland,Meta,195,255,False
+Joshua Allen,Project Manager ,West Virginia,Meta,53,358,False
+Stacey Villarreal,Machine Learning Engineer,Massachusetts,Meta,165,353,False
+Victor Joseph,Program Manager,Oregon,Meta,224,258,False
+Christine Marks,Data Scientist ,Tennessee,Meta,190,222,False
+Kristina Mccullough,Associate General Counsel Data Protection,Montana,Meta,48,194,False
+Thomas Hicks,Software Engineer ,Arizona,Meta,92,183,False
+Jennifer Walker,Software Engineer ,Delaware,Meta,202,306,False
+John Willis,Project Manager ,Oregon,Meta,82,94,False
+John Aguilar,Data Scientist,Maine,Meta,170,287,False
+James Harris,Data Scientist,Wyoming,Meta,58,60,False
+Gregory Hill,Product Manager,Arizona,Meta,35,281,False
+Judy Valencia,Machine Learning Engineer,Texas,Meta,81,147,False
+Anna Ruiz,Product Manager,Pennsylvania,Meta,216,287,False
+Allen Evans,Data Scientist,Montana,Meta,238,252,False
+Amy Barnes,Project Manager ,Kentucky,Meta,229,335,False
+Amanda Barrett,Software Engineer ,New Mexico,Meta,168,226,False
+Daniel Kelley,Data Engineer,Delaware,Meta,174,256,False
+Steven Green,Data Engineer,New Mexico,Meta,213,265,False
+Glenn Richardson,Product Manager,Hawaii,Meta,123,350,False
+Evelyn Alexander,Product Manager,Missouri,Meta,142,279,False
+Dwayne Shields,Data Engineer,Arkansas,Meta,106,259,False
+Amber Frazier,Software Engineer ,Delaware,Meta,48,215,False
+Andrew White,Data Scientist,Pennsylvania,Meta,214,259,False
+Francisco Johnson,Associate General Counsel Data Protection,Massachusetts,Meta,45,128,False
+Rebecca Bridges,Associate General Counsel Data Protection,Wisconsin,Meta,69,232,False
+Carol Stafford,Project Manager ,Mississippi,Meta,239,358,False
+Connie Jensen,Data Engineer,Washington,Meta,35,59,True
+Gabriel Anderson,Project Manager ,New Mexico,Meta,62,176,False
+Cynthia Buchanan,Data Scientist ,North Carolina,Meta,216,288,False
+Tim Morales,Data Scientist ,New Hampshire,Meta,187,242,False
+William Huffman,Data Scientist,Idaho,Meta,16,313,False
+Joseph Garcia,Machine Learning Engineer,Connecticut,Meta,192,303,False
+Amy Howard,Program Manager,Delaware,Meta,156,252,False
+Mary Phillips,3D Artist,New York,Meta,83,172,False
+David Johnson,Data Scientist,Alaska,Meta,72,168,False
+Mark Dominguez,Data Analyst,Alaska,Meta,189,339,False
+Kayla Campbell,Data Scientist,Texas,Meta,163,346,False
+Eric Page,Software Engineer ,Kansas,Meta,122,257,False
+Kimberly Douglas,Product Manager,Alabama,Meta,166,294,False
+Troy Weber,Product Manager,Illinois,Meta,76,149,False
+Gabrielle Martinez,Associate General Counsel Data Protection,Nebraska,Meta,64,103,False
+Traci Wilson,Data Scientist,Idaho,Meta,116,130,False
+Evan Miller,Associate General Counsel Data Protection,Oklahoma,Meta,23,177,True
+Michelle Greene,Associate General Counsel Data Protection,Wisconsin,Meta,112,127,False
+Michael Jordan,Data Analyst,Oklahoma,Meta,82,208,False
+Matthew Lam,Data Scientist ,Mississippi,Meta,205,359,False
+Sonya Rodriguez,Associate General Counsel Data Protection,Maine,Meta,178,266,False
+Anthony Foster,Software Engineer ,New Jersey,Meta,161,268,False
+Craig Rush,Project Manager ,Tennessee,Meta,154,252,False
+Amy Hebert,Data Engineer,Maryland,Meta,53,113,False
+Chad Butler MD,Data Scientist ,Oregon,Meta,78,83,False
+Donna Wheeler,Data Analyst,New Mexico,Meta,118,164,False
+Samantha Arroyo,Project Manager ,Texas,Meta,230,294,False
+Rodney Ramirez,Data Scientist,Kentucky,Meta,11,236,True
+Mary Sanchez,3D Artist,Texas,Meta,2,58,True
+Angelica Davis,Program Manager,Texas,Meta,123,323,False
+Jason Rollins,Software Engineer ,Illinois,Meta,92,257,False
+Sean Buchanan,Data Scientist,California,Meta,201,275,False
+Emily Ruiz,Data Scientist,Wisconsin,Meta,221,235,False
+Jack Wilson,Project Manager ,Florida,Meta,143,320,False
+Maxwell James,Software Engineer ,Louisiana,Meta,217,303,False
+Sarah Petersen,Program Manager,Maryland,Meta,159,242,False
+Ricky Burnett,3D Artist,Pennsylvania,Meta,78,277,False
+Taylor Thompson,Project Manager ,North Dakota,Meta,106,292,False
+Noah Lamb,Data Scientist,North Dakota,Meta,191,233,False
+Ryan Lara,Software Engineer ,Illinois,Meta,147,205,False
+Kelli Martin,Software Engineer ,Montana,Meta,124,199,False
+Jose Castro,Software Engineer ,Illinois,Meta,13,41,True
+Daniel Morales,Data Scientist ,District of Columbia,Meta,102,275,False
+Daniel Edwards,Software Engineer ,West Virginia,Meta,50,170,False
+Jeffery Jones,Data Engineer,New Jersey,Meta,95,171,False
+Joy Hansen,Data Analyst,Arkansas,Meta,185,351,False
+Suzanne Gonzalez,Product Manager,West Virginia,Meta,87,234,False
+Anthony White,Product Manager,Georgia,Meta,237,325,False
+Colin Douglas,Data Scientist,Idaho,Meta,179,293,False
+Chad Cooper,Data Engineer,South Carolina,Meta,169,356,False
+Kevin Russell,Associate General Counsel Data Protection,Rhode Island,Meta,108,226,False
+Stephanie Barnes,Associate General Counsel Data Protection,Kansas,Meta,3,11,True
+Sabrina Harris,Product Manager,Washington,Meta,204,233,False
+Chelsey Meyer,Data Scientist,Kentucky,Meta,224,296,False
+Patrick Ray,Data Engineer,Washington,Meta,192,205,False
+Julia Harris,Program Manager,Michigan,Meta,36,97,True
+Amy Stanley,Data Scientist,Maine,Meta,156,289,False
