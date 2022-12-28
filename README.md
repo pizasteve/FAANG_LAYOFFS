@@ -30,4 +30,6 @@ Scraping, Supervised Learning, MVC pattern, JWT, Spring Security.
 
 <b>Keywords :</b> *Web Scraping, Supervised Learning, MVC, Spring, Angular*
 
+<br>
+Link to the presentation: https://youtu.be/FOcUa2vmjcw
 
